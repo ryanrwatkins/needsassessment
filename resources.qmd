@@ -10,8 +10,6 @@ format:
       text: '<script src="assets/catalog.js"></script>'
 ---
 
-> Recovered historical content. Resources and references reflect the archived website.
-
 Browse the recovered bibliography by topic, author, resource type, or year. Years are the original bibliographic **publication years**, not archive capture dates. The catalog includes listing-only records when full reference details could not be retrieved.
 
 [Download the bibliography CSV](data/resources.csv){download="resources.csv"}

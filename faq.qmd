@@ -2,8 +2,6 @@
 title: "FAQ"
 ---
 
-> Recovered historical content. Answers reflect the archived website.
-
 # Frequently Asked Questions
 
 These answers are based on draft materials from [A Guide to Assessing Needs](guide.qmd), the free book and toolkit available on this site.
