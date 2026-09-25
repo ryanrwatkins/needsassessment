@@ -1,0 +1,9 @@
+{
+  "url": "https://na.weshareresearch.com/resources/single-record/?pdb=803",
+  "status": "recovered",
+  "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=803 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+  "title": "Single Record",
+  "capture_url": "http://web.archive.org/web/20250427015027id_/https://na.weshareresearch.com/resources/single-record/?pdb=803",
+  "path": "archive/html/7be575c71d7120b6.html",
+  "bytes": 45491
+}

@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render: python3 scripts/build_catalog.py
+  post-render: python3 scripts/build_catalog.py --index
+  resources:
+    - data/resources.csv
+  render:
+    - "*.qmd"
+website:
+  title: "NeedsAssessment.org"
+  site-url: "https://ryanrwatkins.github.io/needsassessment/"
+  repo-url: "https://github.com/ryanrwatkins/needsassessment"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: overview.qmd
+        text: "Overview"
+      - href: foundations.qmd
+        text: "Foundations"
+      - href: resources.qmd
+        text: "Resources"
+      - href: connect.qmd
+        text: "Connect"
+      - href: expert-chat.qmd
+        text: "Expert Chat"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    link-external-newwindow: true

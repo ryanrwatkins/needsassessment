@@ -1,0 +1,8 @@
+{
+  "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Six-week-guide-Appendix-A3.pdf",
+  "status": "recovered",
+  "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Six-week-guide-Appendix-A3.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+  "capture_url": "http://web.archive.org/web/20240730072615id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Six-week-guide-Appendix-A3.pdf",
+  "path": "assets/9ecaa53e38de8a0c.pdf",
+  "bytes": 94020
+}

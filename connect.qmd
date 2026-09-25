@@ -1,0 +1,25 @@
+---
+title: "Connect"
+---
+
+> Recovered historical content. Resources and references reflect the archived website.
+
+- [Contact Us](connect.qmd#section-contact-us)
+- [Listserv](connect.qmd#section-listserv)
+
+[Archived source](http://web.archive.org/web/20250322212536/https://na.weshareresearch.com/connect/)
+
+## Contact Us {#section-contact-us}
+
+The original contact form could not be restored from the archive. [Send a message through GitHub](https://github.com/ryanrwatkins/needsassessment/issues). 
+
+[Archived source](http://web.archive.org/web/20251231135938/https://na.weshareresearch.com/connect/contact-us/)
+
+## Listserv {#section-listserv}
+
+For practitioners, students, researchers, and others who are interested in the topic of needs assessment, in partnership with the [Needs Assessment TIG](http://comm.eval.org/needs_assessment/home) of the [American Evaluation Association](http://www.eval.org/), we have created an email group (listserv).  You can post questions, share articles, and find experts by posting to this mailing list.
+
+**To Join:**Send an email to [needsassessment-request@freelists.org](mailto:needsassessment-request@freelists.org) with the subject line “**Subscribe**“.  
+**To Manager Your Subscription:** <http://www.freelists.org/list/needsassessment>
+
+[Archived source](http://web.archive.org/web/20250427003529/https://na.weshareresearch.com/connect/listserv/)

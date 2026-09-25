@@ -1,0 +1,2672 @@
+{
+  "requested_capture": "20260101050202",
+  "fallback_requested_capture": "20250322000000",
+  "items": [
+    {
+      "url": "https://na.weshareresearch.com/resources/articles/?listpage=4&instance=1",
+      "status": "recovered",
+      "title": "Articles and Chapters",
+      "capture_url": "https://web.archive.org/web/20250218200328id_/https://na.weshareresearch.com/resources/articles/?listpage=4&instance=1",
+      "path": "archive/html/4e45f41b5f7d960d.html",
+      "bytes": 51785
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=817",
+      "status": "recovered",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=817 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250427002118id_/https://na.weshareresearch.com/resources/single-record/?pdb=817",
+      "path": "archive/html/4132980ef6d0911f.html",
+      "bytes": 45602
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Fishbone.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20251127003043id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Fishbone.pdf",
+      "path": "assets/85e59e9cca64fcec.pdf",
+      "bytes": 180815
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=893",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20240301231010id_/https://na.weshareresearch.com/resources/single-record/?pdb=893",
+      "path": "archive/html/9f9517bf5c955535.html",
+      "bytes": 45598
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=863",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=863 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20240526083620id_/https://na.weshareresearch.com/resources/single-record/?pdb=863",
+      "path": "archive/html/8e5c33aa86ceab9c.html",
+      "bytes": 44601
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=654",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220528162700id_/https://na.weshareresearch.com/resources/single-record/?pdb=654",
+      "path": "archive/html/00e4363569e0931d.html",
+      "bytes": 48002
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=830",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=830 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250515131945id_/https://na.weshareresearch.com/resources/single-record/?pdb=830",
+      "path": "archive/html/e026728dcb840147.html",
+      "bytes": 45385
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=898",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=898"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/articles/?listpage=5&instance=1",
+      "status": "recovered",
+      "title": "Articles and Chapters",
+      "capture_url": "https://web.archive.org/web/20240526084808id_/https://na.weshareresearch.com/resources/articles/?listpage=5&instance=1",
+      "path": "archive/html/a7f403b4f761e361.html",
+      "bytes": 51476
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/2x2-matrix-decision-aids.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20251128085353id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/2x2-matrix-decision-aids.pdf",
+      "path": "assets/ad1e59f7425289c2.pdf",
+      "bytes": 119689
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=892",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=892 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20230204211245id_/https://na.weshareresearch.com/resources/single-record/?pdb=892",
+      "path": "archive/html/e8ae23e7fe419201.html",
+      "bytes": 49460
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=606",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=606 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20240526082542id_/https://na.weshareresearch.com/resources/single-record/?pdb=606",
+      "path": "archive/html/cad1aca91da4adee.html",
+      "bytes": 44561
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/articles/?listpage=10&instance=1",
+      "status": "recovered",
+      "title": "Articles and Chapters",
+      "capture_url": "https://web.archive.org/web/20241214005301id_/https://na.weshareresearch.com/resources/articles/?listpage=10&instance=1",
+      "path": "archive/html/b1434f6e7b1364f5.html",
+      "bytes": 51373
+    },
+    {
+      "url": "https://na.weshareresearch.com/Users/rwatkins/Documents/websites/NA/non-frame%20version/NA-Case-Study-v1.pdf",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20260101050202id_/https://na.weshareresearch.com/Users/rwatkins/Documents/websites/NA/non-frame%20version/NA-Case-Study-v1.pdf"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=907",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=907"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=713",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=713"
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Pair-wise-comparison.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Pair-wise-comparison.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20251127090337id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Pair-wise-comparison.pdf",
+      "path": "assets/b72f9c076fc5705b.pdf",
+      "bytes": 107554
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/books/?listpage=1&instance=1",
+      "status": "recovered",
+      "title": "Books",
+      "capture_url": "https://web.archive.org/web/20230204223723id_/https://na.weshareresearch.com/resources/books/?listpage=1&instance=1",
+      "path": "archive/html/0454d6dbf04033aa.html",
+      "bytes": 54184
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=735",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=735 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20220813065835id_/https://na.weshareresearch.com/resources/single-record/?pdb=735",
+      "path": "archive/html/58a3728c6084d81a.html",
+      "bytes": 48038
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Fault-tree-analysis.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20251127000804id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Fault-tree-analysis.pdf",
+      "path": "assets/1997f492bb702f9f.pdf",
+      "bytes": 167539
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=721",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=721"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=859",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=859 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250427005308id_/https://na.weshareresearch.com/resources/single-record/?pdb=859",
+      "path": "archive/html/bce2593322e8b9fa.html",
+      "bytes": 45346
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Document-and-data-review.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20220528170758id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Document-and-data-review.pdf",
+      "path": "assets/24d5181ff599d47f.pdf",
+      "bytes": 112739
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=820",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=820"
+    },
+    {
+      "url": "https://na.weshareresearch.com/foundations/models/",
+      "status": "recovered",
+      "title": "Models",
+      "capture_url": "http://web.archive.org/web/20250427001927id_/https://na.weshareresearch.com/foundations/models/",
+      "path": "archive/html/ab5bb12a7851f1e1.html",
+      "bytes": 64467
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=894",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=894 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20230204205858id_/https://na.weshareresearch.com/resources/single-record/?pdb=894",
+      "path": "archive/html/dfeff7b13e3f6b4b.html",
+      "bytes": 49450
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Nominal-group.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Nominal-group.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20251127000204id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Nominal-group.pdf",
+      "path": "assets/44946fa3274755a7.pdf",
+      "bytes": 103102
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=698",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=698"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=851",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=851 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20240526094822id_/https://na.weshareresearch.com/resources/single-record/?pdb=851",
+      "path": "archive/html/2be6a86979799a98.html",
+      "bytes": 44651
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=792",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=792 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20220528164624id_/https://na.weshareresearch.com/resources/single-record/?pdb=792",
+      "path": "archive/html/17dea8955f0f4580.html",
+      "bytes": 48034
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/SWOT+.pdf",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/SWOT+.pdf"
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Root-cause-analysis.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Root-cause-analysis.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20240714012317id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Root-cause-analysis.pdf",
+      "path": "assets/2ba2f3e566fbcfad.pdf",
+      "bytes": 132519
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=728",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=728 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20220813052143id_/https://na.weshareresearch.com/resources/single-record/?pdb=728",
+      "path": "archive/html/e2cc4ee4dc03538e.html",
+      "bytes": 47933
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=959",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=959 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20240526081538id_/https://na.weshareresearch.com/resources/single-record/?pdb=959",
+      "path": "archive/html/fb8ff7aa9f173704.html",
+      "bytes": 44584
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=865",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20230204212851id_/https://na.weshareresearch.com/resources/single-record/?pdb=865",
+      "path": "archive/html/52609b7bfe1cb353.html",
+      "bytes": 49472
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/books/?listpage=3&instance=1",
+      "status": "recovered",
+      "title": "Books",
+      "capture_url": "https://web.archive.org/web/20240612225204id_/https://na.weshareresearch.com/resources/books/?listpage=3&instance=1",
+      "path": "archive/html/c20ed931e863809e.html",
+      "bytes": 41991
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/World-Cafe.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20251127000100id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/World-Cafe.pdf",
+      "path": "assets/3a947a993fbcf769.pdf",
+      "bytes": 103977
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=815",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220528163848id_/https://na.weshareresearch.com/resources/single-record/?pdb=815",
+      "path": "archive/html/fa65c70f906cd15f.html",
+      "bytes": 48017
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/articles/?listpage=11&instance=1",
+      "status": "recovered",
+      "title": "Articles and Chapters",
+      "capture_url": "https://web.archive.org/web/20250624183937id_/https://na.weshareresearch.com/resources/articles/?listpage=11&instance=1",
+      "path": "archive/html/103f46eff6d44465.html",
+      "bytes": 43944
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=912",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=912 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20241214001413id_/https://na.weshareresearch.com/resources/single-record/?pdb=912",
+      "path": "archive/html/0ac75f5eefc9255b.html",
+      "bytes": 45091
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=785",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=785"
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Concept-mapping.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20251127000046id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Concept-mapping.pdf",
+      "path": "assets/4cf76eeb46cdd70b.pdf",
+      "bytes": 213606
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=660",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=660 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250624183126id_/https://na.weshareresearch.com/resources/single-record/?pdb=660",
+      "path": "archive/html/a3df2bc7fcfe8346.html",
+      "bytes": 45606
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Scenarios.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Scenarios.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20240713144606id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Scenarios.pdf",
+      "path": "assets/2973090af31973a8.pdf",
+      "bytes": 102143
+    },
+    {
+      "url": "https://na.weshareresearch.com/",
+      "status": "recovered",
+      "title": "Your Complete Resource Site on Needs and Needs Assessments.",
+      "capture_url": "http://web.archive.org/web/20260101050202id_/https://na.weshareresearch.com/",
+      "path": "archive/html/c9a27e485bc0852a.html",
+      "bytes": 52114
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=678",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220813054515id_/https://na.weshareresearch.com/resources/single-record/?pdb=678",
+      "path": "archive/html/cf9c9043a7c8282d.html",
+      "bytes": 48084
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=867",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20240416131730id_/https://na.weshareresearch.com/resources/single-record/?pdb=867",
+      "path": "archive/html/0e6838d1bd40f956.html",
+      "bytes": 45555
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=712",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=712"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=743",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=743"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=783",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=783"
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Cognitive-task-analysis.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20251126235949id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Cognitive-task-analysis.pdf",
+      "path": "assets/da16f227849ae866.pdf",
+      "bytes": 134333
+    },
+    {
+      "url": "https://na.weshareresearch.com/overview/",
+      "status": "recovered",
+      "title": "Overview",
+      "capture_url": "http://web.archive.org/web/20240714202832id_/https://na.weshareresearch.com/overview/",
+      "path": "archive/html/f41d407ca81acf0d.html",
+      "bytes": 37187
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=960",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250322214115id_/https://na.weshareresearch.com/resources/single-record/?pdb=960",
+      "path": "archive/html/8dd463daebc0eee4.html",
+      "bytes": 45159
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Detailed-checklist-Appendix-A2.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20251127014027id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Detailed-checklist-Appendix-A2.pdf",
+      "path": "assets/018c8d264fe73b3c.pdf",
+      "bytes": 125623
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Performance-observations.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Performance-observations.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20240712013832id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Performance-observations.pdf",
+      "path": "assets/64320d14c2881167.pdf",
+      "bytes": 103444
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=927",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=927 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20220813063102id_/https://na.weshareresearch.com/resources/single-record/?pdb=927",
+      "path": "archive/html/86a80ef2478b777c.html",
+      "bytes": 47996
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=787",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20231004002145id_/https://na.weshareresearch.com/resources/single-record/?pdb=787",
+      "path": "archive/html/3885b5b38aa71309.html",
+      "bytes": 45458
+    },
+    {
+      "url": "https://na.weshareresearch.com/connect/contact-us/",
+      "status": "recovered",
+      "title": "Contact Us",
+      "capture_url": "http://web.archive.org/web/20251231135938id_/https://na.weshareresearch.com/connect/contact-us/",
+      "path": "archive/html/d3bc989c122c4794.html",
+      "bytes": 78141
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=925",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=925"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=647",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220528170434id_/https://na.weshareresearch.com/resources/single-record/?pdb=647",
+      "path": "archive/html/4aafdfe27bc93fb9.html",
+      "bytes": 48090
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=651",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220528164656id_/https://na.weshareresearch.com/resources/single-record/?pdb=651",
+      "path": "archive/html/618b999c9ff73cb7.html",
+      "bytes": 47926
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=901",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=901 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20220528172515id_/https://na.weshareresearch.com/resources/single-record/?pdb=901",
+      "path": "archive/html/460c980a43d9ea14.html",
+      "bytes": 48041
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=883",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250218193709id_/https://na.weshareresearch.com/resources/single-record/?pdb=883",
+      "path": "archive/html/210fe1cfb75d0fbc.html",
+      "bytes": 44888
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=968",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250515132833id_/https://na.weshareresearch.com/resources/single-record/?pdb=968",
+      "path": "archive/html/2fcafa99602c721c.html",
+      "bytes": 45579
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=873",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20230204225443id_/https://na.weshareresearch.com/resources/single-record/?pdb=873",
+      "path": "archive/html/8b3d2e2d46a7ffb6.html",
+      "bytes": 49456
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=604",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=604 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20240526083836id_/https://na.weshareresearch.com/resources/single-record/?pdb=604",
+      "path": "archive/html/c564fdcca67df850.html",
+      "bytes": 44621
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=839",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220528163347id_/https://na.weshareresearch.com/resources/single-record/?pdb=839",
+      "path": "archive/html/9517651324ec945e.html",
+      "bytes": 47988
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=677",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=677"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=885",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=885 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20230204214935id_/https://na.weshareresearch.com/resources/single-record/?pdb=885",
+      "path": "archive/html/68af8fe0acb2b078.html",
+      "bytes": 49505
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=926",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=926 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=889",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20240526081714id_/https://na.weshareresearch.com/resources/single-record/?pdb=889",
+      "path": "archive/html/03af8a34b7c7d68b.html",
+      "bytes": 44694
+    },
+    {
+      "url": "https://na.weshareresearch.com/cdn-cgi/l/email-protection",
+      "status": "unavailable",
+      "error": "No WordPress page content in response"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=608",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=608 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=758",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220528173727id_/https://na.weshareresearch.com/resources/single-record/?pdb=758",
+      "path": "archive/html/4e5892d031b61420.html",
+      "bytes": 48005
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=653",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=653"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=740",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220528171329id_/https://na.weshareresearch.com/resources/single-record/?pdb=740",
+      "path": "archive/html/1368e626f9f7f6a9.html",
+      "bytes": 48033
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Interviews.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Interviews.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20251126235109id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Interviews.pdf",
+      "path": "assets/8668b89fafe54c99.pdf",
+      "bytes": 158186
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=687",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=687"
+    },
+    {
+      "url": "https://na.weshareresearch.com/overview/introduction-to-needs-assessment/",
+      "status": "recovered",
+      "title": "Introduction to Needs Assessment",
+      "capture_url": "http://web.archive.org/web/20240526093113id_/https://na.weshareresearch.com/overview/introduction-to-needs-assessment/",
+      "path": "archive/html/f464d923242a418a.html",
+      "bytes": 41037
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=656",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=656 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20220813053725id_/https://na.weshareresearch.com/resources/single-record/?pdb=656",
+      "path": "archive/html/052ec63e867f8aff.html",
+      "bytes": 48040
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=963",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=963 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250426232945id_/https://na.weshareresearch.com/resources/single-record/?pdb=963",
+      "path": "archive/html/43e17c278d8c520b.html",
+      "bytes": 45624
+    },
+    {
+      "url": "https://na.weshareresearch.com/expert-chat/",
+      "status": "recovered",
+      "title": "Expert Chat",
+      "capture_url": "http://web.archive.org/web/20240714215034id_/https://na.weshareresearch.com/expert-chat/",
+      "path": "archive/html/8f07c6d2dc828ba6.html",
+      "bytes": 36804
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=811",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=811 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250427010422id_/https://na.weshareresearch.com/resources/single-record/?pdb=811",
+      "path": "archive/html/83c18d68c57a1b2e.html",
+      "bytes": 45553
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=777",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=777 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/connect/",
+      "status": "recovered",
+      "title": "Connect",
+      "capture_url": "http://web.archive.org/web/20250322212536id_/https://na.weshareresearch.com/connect/",
+      "path": "archive/html/51b7aadc8d8cb10c.html",
+      "bytes": 37284
+    },
+    {
+      "url": "https://na.weshareresearch.com/guide-to-assessing-needs/",
+      "status": "recovered",
+      "title": "Guide to Assessing Needs",
+      "capture_url": "https://web.archive.org/web/20240612221754id_/https://na.weshareresearch.com/guide-to-assessing-needs/",
+      "path": "archive/html/1d71e478d7724542.html",
+      "bytes": 43965
+    },
+    {
+      "url": "https://na.weshareresearch.com/foundations/philosophy/",
+      "status": "recovered",
+      "title": "Philosophical Perspectives on Needs",
+      "capture_url": "http://web.archive.org/web/20240612224930id_/https://na.weshareresearch.com/foundations/philosophy/",
+      "path": "archive/html/8c5643f64038a2c7.html",
+      "bytes": 52130
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=710",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=710"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=964",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250426232644id_/https://na.weshareresearch.com/resources/single-record/?pdb=964",
+      "path": "archive/html/1bab72c7ba5c8924.html",
+      "bytes": 45610
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=843",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=843"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=880",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=880 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20230204222218id_/https://na.weshareresearch.com/resources/single-record/?pdb=880",
+      "path": "archive/html/30d9466abd06bd7e.html",
+      "bytes": 49473
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/articles/?listpage=2&instance=1",
+      "status": "recovered",
+      "title": "Articles and Chapters",
+      "capture_url": "https://web.archive.org/web/20250515121932id_/https://na.weshareresearch.com/resources/articles/?listpage=2&instance=1",
+      "path": "archive/html/7092cc7a6ea1f164.html",
+      "bytes": 52555
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=622",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20240302004020id_/https://na.weshareresearch.com/resources/single-record/?pdb=622",
+      "path": "archive/html/97e0bdfa2316f604.html",
+      "bytes": 45501
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2021/09/ladders-1024x385.png",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2021/09/ladders-1024x385.png"
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-3A.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-3A.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20240719021718id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-3A.pdf",
+      "path": "assets/3e59e70e67fb06ae.pdf",
+      "bytes": 888255
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=597",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=597 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=782",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20230204224253id_/https://na.weshareresearch.com/resources/single-record/?pdb=782",
+      "path": "archive/html/d843241653828217.html",
+      "bytes": 49472
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=881",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=881 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20230204221543id_/https://na.weshareresearch.com/resources/single-record/?pdb=881",
+      "path": "archive/html/bd607d95f6371c8b.html",
+      "bytes": 49490
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=902",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=902 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20231004002944id_/https://na.weshareresearch.com/resources/single-record/?pdb=902",
+      "path": "archive/html/b8bf05f6cfc06db5.html",
+      "bytes": 45393
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=836",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=836"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/articles/?listpage=9&instance=1",
+      "status": "recovered",
+      "title": "Articles and Chapters",
+      "capture_url": "https://web.archive.org/web/20250112204813id_/https://na.weshareresearch.com/resources/articles/?listpage=9&instance=1",
+      "path": "archive/html/a095e2526937d8eb.html",
+      "bytes": 51451
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=663",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=663 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=756",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=756 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=806",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220528172823id_/https://na.weshareresearch.com/resources/single-record/?pdb=806",
+      "path": "archive/html/616572b5474e6434.html",
+      "bytes": 47989
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=872",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=872"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=860",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=860 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250427005606id_/https://na.weshareresearch.com/resources/single-record/?pdb=860",
+      "path": "archive/html/8f34e1d1facce87c.html",
+      "bytes": 45522
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=711",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=711 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20231004005333id_/https://na.weshareresearch.com/resources/single-record/?pdb=711",
+      "path": "archive/html/15a7f82527f67287.html",
+      "bytes": 45587
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/articles/?listpage=7&instance=1",
+      "status": "recovered",
+      "title": "Articles and Chapters",
+      "capture_url": "https://web.archive.org/web/20250112220506id_/https://na.weshareresearch.com/resources/articles/?listpage=7&instance=1",
+      "path": "archive/html/8cf3f459181e20c0.html",
+      "bytes": 51652
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=638",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220528175154id_/https://na.weshareresearch.com/resources/single-record/?pdb=638",
+      "path": "archive/html/9c9755a319951171.html",
+      "bytes": 47988
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=731",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20240526075046id_/https://na.weshareresearch.com/resources/single-record/?pdb=731",
+      "path": "archive/html/88d5b55092c070dc.html",
+      "bytes": 44646
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/articles/",
+      "status": "recovered",
+      "title": "Articles and Chapters",
+      "capture_url": "http://web.archive.org/web/20250624202927id_/https://na.weshareresearch.com/resources/articles/",
+      "path": "archive/html/0942d79ff6010040.html",
+      "bytes": 52480
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Delphi-technique.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20251127002337id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Delphi-technique.pdf",
+      "path": "assets/98524332ea6b8569.pdf",
+      "bytes": 116103
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=664",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=664 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20220528174256id_/https://na.weshareresearch.com/resources/single-record/?pdb=664",
+      "path": "archive/html/29778e137952eb2a.html",
+      "bytes": 48135
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=613",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=613"
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Guided-expert-reviews.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Guided-expert-reviews.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20251127200104id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Guided-expert-reviews.pdf",
+      "path": "assets/718fb8cc036eda18.pdf",
+      "bytes": 109543
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/websites/",
+      "status": "recovered",
+      "title": "Websites",
+      "capture_url": "https://web.archive.org/web/20250515122115id_/https://na.weshareresearch.com/resources/websites/",
+      "path": "archive/html/7e94a035aede1da9.html",
+      "bytes": 44055
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=870",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20240526075609id_/https://na.weshareresearch.com/resources/single-record/?pdb=870",
+      "path": "archive/html/062e0a71695a7c0e.html",
+      "bytes": 44577
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Focus-groups.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20251127030343id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Focus-groups.pdf",
+      "path": "assets/4d9b5fc4516300ff.pdf",
+      "bytes": 164962
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=862",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=862"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=928",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=928 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20220528170134id_/https://na.weshareresearch.com/resources/single-record/?pdb=928",
+      "path": "archive/html/a0e372957c8cae74.html",
+      "bytes": 47936
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Implementation-plan-Appendix-A1.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Implementation-plan-Appendix-A1.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20251127062529id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Implementation-plan-Appendix-A1.pdf",
+      "path": "assets/b66b9b5435036f01.pdf",
+      "bytes": 327450
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=755",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=755 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=612",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=612 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=655",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220813054321id_/https://na.weshareresearch.com/resources/single-record/?pdb=655",
+      "path": "archive/html/b1050308a831335b.html",
+      "bytes": 47925
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=821",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=821"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=809",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=809"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=715",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=715"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=929",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=929 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20220813061820id_/https://na.weshareresearch.com/resources/single-record/?pdb=929",
+      "path": "archive/html/48c5f118e9446ca4.html",
+      "bytes": 47935
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=835",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=835 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250427005836id_/https://na.weshareresearch.com/resources/single-record/?pdb=835",
+      "path": "archive/html/cbad515d2b484069.html",
+      "bytes": 45366
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=956",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250427003439id_/https://na.weshareresearch.com/resources/single-record/?pdb=956",
+      "path": "archive/html/fb18e9630dcf7d28.html",
+      "bytes": 45577
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=770",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=770"
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-3B.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-3B.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20240728132454id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-3B.pdf",
+      "path": "assets/3784ddc843abe8cd.pdf",
+      "bytes": 994638
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=729",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=729 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20220813051903id_/https://na.weshareresearch.com/resources/single-record/?pdb=729",
+      "path": "archive/html/4512ac894c0fb1d4.html",
+      "bytes": 47976
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Future-wheel.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20251126235633id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Future-wheel.pdf",
+      "path": "assets/088db813fa1f59f9.pdf",
+      "bytes": 181916
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=645",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220813063956id_/https://na.weshareresearch.com/resources/single-record/?pdb=645",
+      "path": "archive/html/cf90f2643e4b2f61.html",
+      "bytes": 48092
+    },
+    {
+      "url": "https://na.weshareresearch.com/foundations/",
+      "status": "recovered",
+      "title": "Foundations",
+      "capture_url": "http://web.archive.org/web/20240612214037id_/https://na.weshareresearch.com/foundations/",
+      "path": "archive/html/624c9ff9d1def373.html",
+      "bytes": 37311
+    },
+    {
+      "url": "https://na.weshareresearch.com/foundations/theories/",
+      "status": "recovered",
+      "title": "Theories",
+      "capture_url": "http://web.archive.org/web/20240416130021id_/https://na.weshareresearch.com/foundations/theories/",
+      "path": "archive/html/61e3d247937f359c.html",
+      "bytes": 44087
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=650",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=650 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=667",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=667 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=636",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250322205444id_/https://na.weshareresearch.com/resources/single-record/?pdb=636",
+      "path": "archive/html/09500924cefea971.html",
+      "bytes": 45255
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/articles/?listpage=6&instance=1",
+      "status": "recovered",
+      "title": "Articles and Chapters",
+      "capture_url": "https://web.archive.org/web/20241120084513id_/https://na.weshareresearch.com/resources/articles/?listpage=6&instance=1",
+      "path": "archive/html/cffbfed85979fdf5.html",
+      "bytes": 52646
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=834",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=834 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250427010646id_/https://na.weshareresearch.com/resources/single-record/?pdb=834",
+      "path": "archive/html/c27097891a774358.html",
+      "bytes": 45442
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/tools/",
+      "status": "recovered",
+      "title": "Tools of the Trade",
+      "capture_url": "https://web.archive.org/web/20240526084046id_/https://na.weshareresearch.com/resources/tools/",
+      "path": "archive/html/aa966c9ff3d33b40.html",
+      "bytes": 41369
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/media-audio-video/",
+      "status": "recovered",
+      "title": "Media (audio/video)",
+      "capture_url": "https://web.archive.org/web/20250624202033id_/https://na.weshareresearch.com/resources/media-audio-video/",
+      "path": "archive/html/57267a3efbf3fb6f.html",
+      "bytes": 56500
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=690",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=690 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250427013701id_/https://na.weshareresearch.com/resources/single-record/?pdb=690",
+      "path": "archive/html/397e2d47ef189555.html",
+      "bytes": 45492
+    },
+    {
+      "url": "https://na.weshareresearch.com/foundations/history/",
+      "status": "recovered",
+      "title": "History",
+      "capture_url": "http://web.archive.org/web/20251231135718id_/https://na.weshareresearch.com/foundations/history/",
+      "path": "archive/html/bdcfa652f7a84ff5.html",
+      "bytes": 69546
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Guide-to-selecting-Appendix-A5.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20251127024440id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Guide-to-selecting-Appendix-A5.pdf",
+      "path": "assets/c3d56281dab6c017.pdf",
+      "bytes": 96835
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=674",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=674"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=955",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20240612214452id_/https://na.weshareresearch.com/resources/single-record/?pdb=955",
+      "path": "archive/html/2b2614e2bab846e6.html",
+      "bytes": 44512
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Performance-pyramid.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Performance-pyramid.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20240712024457id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Performance-pyramid.pdf",
+      "path": "assets/14eef652a242dedb.pdf",
+      "bytes": 216200
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=878",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20230204222607id_/https://na.weshareresearch.com/resources/single-record/?pdb=878",
+      "path": "archive/html/95a51371d890b108.html",
+      "bytes": 49501
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=722",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=722"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=861",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=861 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=629",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20230607084523id_/https://na.weshareresearch.com/resources/single-record/?pdb=629",
+      "path": "archive/html/d3f509f940fd140f.html",
+      "bytes": 50073
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/search-books-articles-chapters/",
+      "status": "recovered",
+      "title": "Search Books/Articles/Chapters",
+      "capture_url": "https://web.archive.org/web/20240526095828id_/https://na.weshareresearch.com/resources/search-books-articles-chapters/",
+      "path": "archive/html/36213513e5aee9b3.html",
+      "bytes": 42762
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=845",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20230204210724id_/https://na.weshareresearch.com/resources/single-record/?pdb=845",
+      "path": "archive/html/fe3e74da9f82753f.html",
+      "bytes": 49429
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=957",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=957 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=632",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=632 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=882",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20240526090329id_/https://na.weshareresearch.com/resources/single-record/?pdb=882",
+      "path": "archive/html/60c2f81a917d2609.html",
+      "bytes": 44668
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=737",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=737"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=719",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=719"
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Three-phase-with-details-Appendix-A6.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20251127012351id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Three-phase-with-details-Appendix-A6.pdf",
+      "path": "assets/e3620c7e0b651e33.pdf",
+      "bytes": 111814
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=871",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250426231931id_/https://na.weshareresearch.com/resources/single-record/?pdb=871",
+      "path": "archive/html/76ecb02b55fee631.html",
+      "bytes": 45389
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/articles/?listpage=1&instance=1",
+      "status": "recovered",
+      "title": "Articles and Chapters",
+      "capture_url": "https://web.archive.org/web/20240714201309id_/https://na.weshareresearch.com/resources/articles/?listpage=1&instance=1",
+      "path": "archive/html/74fe8d2e2fbbf086.html",
+      "bytes": 51623
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=850",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=850 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20240526095413id_/https://na.weshareresearch.com/resources/single-record/?pdb=850",
+      "path": "archive/html/757df07bb90b20d3.html",
+      "bytes": 44639
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Dual response-surveys.pdf",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Dual%20response-surveys.pdf"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=691",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=691 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250515131632id_/https://na.weshareresearch.com/resources/single-record/?pdb=691",
+      "path": "archive/html/a7572956a8b765a9.html",
+      "bytes": 45600
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=706",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=706 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20230204205604id_/https://na.weshareresearch.com/resources/single-record/?pdb=706",
+      "path": "archive/html/0528608e63a3fc04.html",
+      "bytes": 49515
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=642",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=642 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Tabletop-analysis.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Tabletop-analysis.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20240730133214id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Tabletop-analysis.pdf",
+      "path": "assets/3ccf753282d144a2.pdf",
+      "bytes": 118224
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/e-learnings/",
+      "status": "recovered",
+      "title": "E-learnings",
+      "capture_url": "https://web.archive.org/web/20250322211528id_/https://na.weshareresearch.com/resources/e-learnings/",
+      "path": "archive/html/ee91a6ccf42b7627.html",
+      "bytes": 44271
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=675",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=675"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=879",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=879 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20230204222033id_/https://na.weshareresearch.com/resources/single-record/?pdb=879",
+      "path": "archive/html/50385891dddfb0ac.html",
+      "bytes": 49519
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/e-learnings/NA-Case-Study-v1.pdf",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/e-learnings/NA-Case-Study-v1.pdf (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/non-english/",
+      "status": "recovered",
+      "title": "Non-English",
+      "capture_url": "https://web.archive.org/web/20250426234218id_/https://na.weshareresearch.com/resources/non-english/",
+      "path": "archive/html/565ef4dd090dd86a.html",
+      "bytes": 41691
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=904",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=904 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20220528170628id_/https://na.weshareresearch.com/resources/single-record/?pdb=904",
+      "path": "archive/html/7178d618610cef51.html",
+      "bytes": 47868
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=814",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=814"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/articles/?listpage=3&instance=1",
+      "status": "recovered",
+      "title": "Articles and Chapters",
+      "capture_url": "https://web.archive.org/web/20250426230749id_/https://na.weshareresearch.com/resources/articles/?listpage=3&instance=1",
+      "path": "archive/html/14e11f5b18e49114.html",
+      "bytes": 52472
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=837",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220528164802id_/https://na.weshareresearch.com/resources/single-record/?pdb=837",
+      "path": "archive/html/744988117fc1c90f.html",
+      "bytes": 47920
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=804",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=804 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250624202000id_/https://na.weshareresearch.com/resources/single-record/?pdb=804",
+      "path": "archive/html/da4a03fb50c3334f.html",
+      "bytes": 45493
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=780",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=780"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=686",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=686 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20220528175040id_/https://na.weshareresearch.com/resources/single-record/?pdb=686",
+      "path": "archive/html/c46251d016231a56.html",
+      "bytes": 48011
+    },
+    {
+      "url": "https://na.weshareresearch.com/overview/essentials/",
+      "status": "recovered",
+      "title": "Essentials",
+      "capture_url": "http://web.archive.org/web/20240526082842id_/https://na.weshareresearch.com/overview/essentials/",
+      "path": "archive/html/bbf09992c1e5d53c.html",
+      "bytes": 43751
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Six-week-guide-Appendix-A3.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Six-week-guide-Appendix-A3.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20240730072615id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Six-week-guide-Appendix-A3.pdf",
+      "path": "assets/9ecaa53e38de8a0c.pdf",
+      "bytes": 94020
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-2.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-2.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20240720012527id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-2.pdf",
+      "path": "assets/d3cfc23a973cfd2f.pdf",
+      "bytes": 519132
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=602",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=602 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20240526085208id_/https://na.weshareresearch.com/resources/single-record/?pdb=602",
+      "path": "archive/html/9c1d70a382b76a6c.html",
+      "bytes": 44577
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=868",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=868 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20240526080049id_/https://na.weshareresearch.com/resources/single-record/?pdb=868",
+      "path": "archive/html/3ba5a353c46e754f.html",
+      "bytes": 44743
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/ (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250322223933id_/https://na.weshareresearch.com/resources/single-record/",
+      "path": "archive/html/55c8c361cd3f402e.html",
+      "bytes": 38583
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/books/",
+      "status": "recovered",
+      "title": "Books",
+      "capture_url": "https://web.archive.org/web/20240714205040id_/https://na.weshareresearch.com/resources/books/",
+      "path": "archive/html/8cfd3220c7811052.html",
+      "bytes": 50293
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=888",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20230204213131id_/https://na.weshareresearch.com/resources/single-record/?pdb=888",
+      "path": "archive/html/326196745ffcd4b7.html",
+      "bytes": 49515
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Multicriteria-analysis.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Multicriteria-analysis.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20251127003123id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Multicriteria-analysis.pdf",
+      "path": "assets/c9d9d86c5469fba6.pdf",
+      "bytes": 137152
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=643",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20230204223257id_/https://na.weshareresearch.com/resources/single-record/?pdb=643",
+      "path": "archive/html/503b2a9f19690f81.html",
+      "bytes": 49543
+    },
+    {
+      "url": "https://na.weshareresearch.com/overview/faq/",
+      "status": "recovered",
+      "title": "FAQ",
+      "capture_url": "http://web.archive.org/web/20260101054152id_/https://na.weshareresearch.com/overview/faq/",
+      "path": "archive/html/752fc593824a7e46.html",
+      "bytes": 85256
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=877",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20230204223227id_/https://na.weshareresearch.com/resources/single-record/?pdb=877",
+      "path": "archive/html/caf2d6604e352da5.html",
+      "bytes": 49471
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/",
+      "status": "recovered",
+      "title": "Resources",
+      "capture_url": "http://web.archive.org/web/20240715060952id_/https://na.weshareresearch.com/resources/",
+      "path": "archive/html/1c22b5624fbeb0db.html",
+      "bytes": 37920
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-1.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-1.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20240719003136id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-1.pdf",
+      "path": "assets/a52521e867556aea.pdf",
+      "bytes": 320137
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=752",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220528155946id_/https://na.weshareresearch.com/resources/single-record/?pdb=752",
+      "path": "archive/html/1c540e4b707bfc16.html",
+      "bytes": 47959
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=598",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=598 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=828",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=828"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=637",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20241214015243id_/https://na.weshareresearch.com/resources/single-record/?pdb=637",
+      "path": "archive/html/d0a079a2f9c8fa63.html",
+      "bytes": 45108
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=776",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220528155622id_/https://na.weshareresearch.com/resources/single-record/?pdb=776",
+      "path": "archive/html/69159a5598a7e680.html",
+      "bytes": 47792
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=803",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=803 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250427015027id_/https://na.weshareresearch.com/resources/single-record/?pdb=803",
+      "path": "archive/html/7be575c71d7120b6.html",
+      "bytes": 45491
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=771",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=771 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=818",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=818"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/articles/?listpage=8&instance=1",
+      "status": "recovered",
+      "title": "Articles and Chapters",
+      "capture_url": "https://web.archive.org/web/20250112212831id_/https://na.weshareresearch.com/resources/articles/?listpage=8&instance=1",
+      "path": "archive/html/3e4681bd3b4ab119.html",
+      "bytes": 51485
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Tools-to-consider-Appendix-A4.pdf",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Tools-to-consider-Appendix-A4.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "capture_url": "http://web.archive.org/web/20251127021325id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Tools-to-consider-Appendix-A4.pdf",
+      "path": "assets/6aaf9edeca3be003.pdf",
+      "bytes": 72954
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=761",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250427012831id_/https://na.weshareresearch.com/resources/single-record/?pdb=761",
+      "path": "archive/html/2e680bac778b90fd.html",
+      "bytes": 45450
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=631",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20220813054907id_/https://na.weshareresearch.com/resources/single-record/?pdb=631",
+      "path": "archive/html/16288888d3609eef.html",
+      "bytes": 48000
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=896",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250515134024id_/https://na.weshareresearch.com/resources/single-record/?pdb=896",
+      "path": "archive/html/ce6f75b9c89863b8.html",
+      "bytes": 45341
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=779",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=779 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/connect/listserv/",
+      "status": "recovered",
+      "title": "Listserv",
+      "capture_url": "http://web.archive.org/web/20250427003529id_/https://na.weshareresearch.com/connect/listserv/",
+      "path": "archive/html/3ba15972ea33abec.html",
+      "bytes": 39522
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=966",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20240526095548id_/https://na.weshareresearch.com/resources/single-record/?pdb=966",
+      "path": "archive/html/339e40c3faba29f6.html",
+      "bytes": 44675
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=601",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=601 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250624194613id_/https://na.weshareresearch.com/resources/single-record/?pdb=601",
+      "path": "archive/html/44e92d6a7505fe8d.html",
+      "bytes": 45383
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=874",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20240302011846id_/https://na.weshareresearch.com/resources/single-record/?pdb=874",
+      "path": "archive/html/1b0d0508d104caca.html",
+      "bytes": 45494
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=784",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20231004004042id_/https://na.weshareresearch.com/resources/single-record/?pdb=784",
+      "path": "archive/html/8ef536ed67aaa58d.html",
+      "bytes": 45421
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=958",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250515122004id_/https://na.weshareresearch.com/resources/single-record/?pdb=958",
+      "path": "archive/html/1a590c006a2467d8.html",
+      "bytes": 45518
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=876",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20240302010353id_/https://na.weshareresearch.com/resources/single-record/?pdb=876",
+      "path": "archive/html/8916ff36b67e0032.html",
+      "bytes": 45511
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/plugins/participants-database/ui/no-image.png",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/wp-content/plugins/participants-database/ui/no-image.png (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Task-analysis.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20251127014520id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Task-analysis.pdf",
+      "path": "assets/42e4e00fab5915f3.pdf",
+      "bytes": 265582
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/books/?listpage=2&instance=1",
+      "status": "recovered",
+      "title": "Books",
+      "capture_url": "https://web.archive.org/web/20240526083400id_/https://na.weshareresearch.com/resources/books/?listpage=2&instance=1",
+      "path": "archive/html/af60ed2b591b30b4.html",
+      "bytes": 50179
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=732",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=732"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=967",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=967 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20240526095034id_/https://na.weshareresearch.com/resources/single-record/?pdb=967",
+      "path": "archive/html/c92b302659b69b31.html",
+      "bytes": 44832
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=813",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260101050202id_/https://na.weshareresearch.com/resources/single-record/?pdb=813 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20240526085040id_/https://na.weshareresearch.com/resources/single-record/?pdb=813",
+      "path": "archive/html/5787ad6a2283c0ba.html",
+      "bytes": 44581
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=753",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=753"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=599",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=599 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20221006235701id_/https://na.weshareresearch.com/resources/single-record/?pdb=599",
+      "path": "archive/html/b6a43da1e987cf79.html",
+      "bytes": 48808
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=607",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=607 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=611",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112200334id_/https://na.weshareresearch.com/resources/single-record/?pdb=611",
+      "path": "archive/html/3cbfa9b39c01fa49.html",
+      "bytes": 45089
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=615",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=615"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=616",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=616"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=617",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=617"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=619",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=619 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20221007000943id_/https://na.weshareresearch.com/resources/single-record/?pdb=619",
+      "path": "archive/html/6e32341a18a18659.html",
+      "bytes": 48507
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=621",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=621 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250112213511id_/https://na.weshareresearch.com/resources/single-record/?pdb=621",
+      "path": "archive/html/ed13c55e76b45e7d.html",
+      "bytes": 45077
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=623",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=623"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=624",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=624 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20221006234602id_/https://na.weshareresearch.com/resources/single-record/?pdb=624",
+      "path": "archive/html/dbbb6dfe701078b2.html",
+      "bytes": 48759
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=625",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=625"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=630",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=630"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=639",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=639 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=641",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=641"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=646",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=646 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250112212504id_/https://na.weshareresearch.com/resources/single-record/?pdb=646",
+      "path": "archive/html/ece86c23f16822d2.html",
+      "bytes": 45059
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=649",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=649 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=652",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=652"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=659",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=659"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=668",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=668 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=671",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20221006235135id_/https://na.weshareresearch.com/resources/single-record/?pdb=671",
+      "path": "archive/html/dde323e634bc33c5.html",
+      "bytes": 48608
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=672",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=672"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=676",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=676 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=681",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=681"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=682",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=682"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=683",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=683 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=689",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112214658id_/https://na.weshareresearch.com/resources/single-record/?pdb=689",
+      "path": "archive/html/ef3420f71aaf949e.html",
+      "bytes": 44974
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=692",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112213718id_/https://na.weshareresearch.com/resources/single-record/?pdb=692",
+      "path": "archive/html/f9a2d2ff52f7624f.html",
+      "bytes": 45093
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=699",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112204642id_/https://na.weshareresearch.com/resources/single-record/?pdb=699",
+      "path": "archive/html/bb93eb5732372524.html",
+      "bytes": 45083
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=702",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=702"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=703",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=703"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=704",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=704 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=705",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=705"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=708",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=708"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=714",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112213617id_/https://na.weshareresearch.com/resources/single-record/?pdb=714",
+      "path": "archive/html/48bb240b4791fc2b.html",
+      "bytes": 45140
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=716",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20221006235300id_/https://na.weshareresearch.com/resources/single-record/?pdb=716",
+      "path": "archive/html/b3212998f3abd82a.html",
+      "bytes": 48796
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=717",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=717 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250112211710id_/https://na.weshareresearch.com/resources/single-record/?pdb=717",
+      "path": "archive/html/5c834725e893b079.html",
+      "bytes": 45016
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=723",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=723"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=725",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112202442id_/https://na.weshareresearch.com/resources/single-record/?pdb=725",
+      "path": "archive/html/84134983a9a33c89.html",
+      "bytes": 45139
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=726",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20231003231426id_/https://na.weshareresearch.com/resources/single-record/?pdb=726",
+      "path": "archive/html/588f9c9742595767.html",
+      "bytes": 45509
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=727",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=727"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=730",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=730 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20221006223011id_/https://na.weshareresearch.com/resources/single-record/?pdb=730",
+      "path": "archive/html/2551fb0ccc0f9173.html",
+      "bytes": 48664
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=738",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=738"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=739",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=739 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250112212517id_/https://na.weshareresearch.com/resources/single-record/?pdb=739",
+      "path": "archive/html/5e18a603a0ffb160.html",
+      "bytes": 45261
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=741",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=741"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=742",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=742 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20221006234403id_/https://na.weshareresearch.com/resources/single-record/?pdb=742",
+      "path": "archive/html/b01fb7561343cd15.html",
+      "bytes": 48580
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=747",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=747"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=750",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=750 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=751",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=751"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=754",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=754"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=757",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=757 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=760",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112214744id_/https://na.weshareresearch.com/resources/single-record/?pdb=760",
+      "path": "archive/html/a8d011dd6b5040df.html",
+      "bytes": 45027
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=762",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112213417id_/https://na.weshareresearch.com/resources/single-record/?pdb=762",
+      "path": "archive/html/fe039a2c20733486.html",
+      "bytes": 45110
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=765",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=765 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20221006234534id_/https://na.weshareresearch.com/resources/single-record/?pdb=765",
+      "path": "archive/html/ac20dbf28a36e749.html",
+      "bytes": 48838
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=767",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=767"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=769",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112204459id_/https://na.weshareresearch.com/resources/single-record/?pdb=769",
+      "path": "archive/html/9e8e53daf33e3420.html",
+      "bytes": 45022
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=772",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=772"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=773",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=773 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=775",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=775"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=781",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=781"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=786",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=786 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=793",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=793 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=794",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=794 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=795",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20221006230554id_/https://na.weshareresearch.com/resources/single-record/?pdb=795"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=798",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=798"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=802",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112220930id_/https://na.weshareresearch.com/resources/single-record/?pdb=802",
+      "path": "archive/html/158fe0ea5572ab33.html",
+      "bytes": 45077
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=805",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20221007001941id_/https://na.weshareresearch.com/resources/single-record/?pdb=805",
+      "path": "archive/html/4b4d30615a6dd920.html",
+      "bytes": 48723
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=807",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=807"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=812",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20221006234234id_/https://na.weshareresearch.com/resources/single-record/?pdb=812",
+      "path": "archive/html/6ff13efefa080f56.html",
+      "bytes": 48642
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=826",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=826"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=832",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=832"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=838",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=838 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20250112205141id_/https://na.weshareresearch.com/resources/single-record/?pdb=838",
+      "path": "archive/html/c2a333ade7f8d614.html",
+      "bytes": 45119
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=840",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=840 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=841",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112203748id_/https://na.weshareresearch.com/resources/single-record/?pdb=841",
+      "path": "archive/html/83343364897093e0.html",
+      "bytes": 45059
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=842",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=842"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=846",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=846"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=899",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=899"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=900",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=900 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20230607095937id_/https://na.weshareresearch.com/resources/single-record/?pdb=900",
+      "path": "archive/html/d7af195baa264127.html",
+      "bytes": 50117
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=903",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=903 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20221006235606id_/https://na.weshareresearch.com/resources/single-record/?pdb=903",
+      "path": "archive/html/256e3ec2be0370fc.html",
+      "bytes": 48646
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=905",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=905"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=906",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=906"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=908",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=908"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=909",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=909"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=910",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=910 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=911",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112203623id_/https://na.weshareresearch.com/resources/single-record/?pdb=911",
+      "path": "archive/html/d95af85b4d179a0e.html",
+      "bytes": 45058
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=913",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20221006225413id_/https://na.weshareresearch.com/resources/single-record/?pdb=913",
+      "path": "archive/html/c258bb36aad6db37.html",
+      "bytes": 48725
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=914",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=914 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20221006224654id_/https://na.weshareresearch.com/resources/single-record/?pdb=914",
+      "path": "archive/html/79aa2f0c2efa8451.html",
+      "bytes": 48716
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=915",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112200225id_/https://na.weshareresearch.com/resources/single-record/?pdb=915",
+      "path": "archive/html/dc45378641e5a266.html",
+      "bytes": 44933
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=916",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=916"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=917",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=917"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=918",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20250112221120id_/https://na.weshareresearch.com/resources/single-record/?pdb=918",
+      "path": "archive/html/7819e7980de7e741.html",
+      "bytes": 45098
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=919",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=919"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=920",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=920"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=921",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=921 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=922",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=922 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=923",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=923 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=924",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=924"
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=930",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20230607092010id_/https://na.weshareresearch.com/resources/single-record/?pdb=930",
+      "path": "archive/html/cfd92c6755e1b0f9.html",
+      "bytes": 50235
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=931",
+      "status": "recovered",
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=931 (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+      "title": "Single Record",
+      "capture_url": "http://web.archive.org/web/20221006233255id_/https://na.weshareresearch.com/resources/single-record/?pdb=931",
+      "path": "archive/html/cccbb3490b4849e5.html",
+      "bytes": 48716
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=932",
+      "status": "recovered",
+      "title": "Single Record",
+      "capture_url": "https://web.archive.org/web/20221006232555id_/https://na.weshareresearch.com/resources/single-record/?pdb=932",
+      "path": "archive/html/18b1af1992dd753e.html",
+      "bytes": 48612
+    },
+    {
+      "url": "https://na.weshareresearch.com/resources/single-record/?pdb=933",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=933 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/altschuld_oct8_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/altschuld_oct8_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/breaugh_sep23_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/breaugh_sep23_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/condly_oct_1_2008.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://needsassessment.org/conversations/condly_oct_1_2008.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/cooper-king_oct8_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/cooper-king_oct8_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/ellinger_sep16_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/ellinger_sep16_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/faure_sep24_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/faure_sep24_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/french_oct8_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/french_oct8_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/frumkin_oct15_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/frumkin_oct15_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/gliddon_oct15_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/gliddon_oct15_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/guerra_oct7_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/guerra_oct7_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/hale_oct8_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/hale_oct8_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/hegstad_oct7_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/hegstad_oct7_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/holmes_sep17_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/holmes_sep17_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/janoff-weisbord_sep18_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/janoff-weisbord_sep18_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/kaufman_feb16_2009.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://needsassessment.org/conversations/kaufman_feb16_2009.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/kutcher_oct15_2008.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://needsassessment.org/conversations/kutcher_oct15_2008.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/lane_feb11_2009.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/lane_feb11_2009.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/leigh_oct1_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/leigh_oct1_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/marker_sep16_2008.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://needsassessment.org/conversations/marker_sep16_2008.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/marrelli_mar4_2009.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/marrelli_mar4_2009.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/nguyen_sep30_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/nguyen_sep30_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/phillips_nov6_2008.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://needsassessment.org/conversations/phillips_nov6_2008.mp3"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/schaffer_oct1_2008.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://needsassessment.org/conversations/schaffer_oct1_2008.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/watkins-leigh_jan26_2009.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://needsassessment.org/conversations/watkins-leigh_jan26_2009.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://needsassessment.org/conversations/white_sep17_2008.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://needsassessment.org/conversations/white_sep17_2008.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://wesharescience.com/na/CAT_Manual_Publication.pdf",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20240626052735id_/https://wesharescience.com/na/CAT_Manual_Publication.pdf"
+    },
+    {
+      "url": "https://wesharescience.com/na/CN-Watkins-2016.zip",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/CN-Watkins-2016.zip"
+    },
+    {
+      "url": "https://wesharescience.com/na/China%202009%20PPT.zip",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://wesharescience.com/na/China%202009%20PPT.zip (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://wesharescience.com/na/DesignModel.png",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://wesharescience.com/na/DesignModel.png (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://wesharescience.com/na/RIR/Frank%20Nguyen%20Research%20In%20Review.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/RIR/Frank%20Nguyen%20Research%20In%20Review.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/RIR/towler-research-in-review.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/RIR/towler-research-in-review.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/HPTbookclub111314.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://wesharescience.com/na/bookclub/HPTbookclub111314.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/HPTbookclub121516.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/HPTbookclub121516.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/HPTbookclub2315.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/HPTbookclub2315.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/HPTbookclub2414.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/HPTbookclub2414.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/HPTbookclub5515.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/HPTbookclub5515.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/HPTbookclub5714.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/HPTbookclub5714.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/HPTbookclub72216.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/HPTbookclub72216.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/HPTbookclub8315.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/HPTbookclub8315.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/HPTbookclub8514.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/HPTbookclub8514.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/bookclub1-26-11.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/bookclub1-26-11.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/bookclub10-28-11.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/bookclub10-28-11.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/bookclub11-4-10.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/bookclub11-4-10.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/bookclub2-3-12.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://wesharescience.com/na/bookclub/bookclub2-3-12.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/bookclub4-28-11.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://wesharescience.com/na/bookclub/bookclub4-28-11.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/bookclub4-30-10.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/bookclub4-30-10.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/bookclub5-4-12.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/bookclub5-4-12.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/bookclub8-4-11.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/bookclub8-4-11.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/bookclub8-5-10.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://wesharescience.com/na/bookclub/bookclub8-5-10.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/bookclub8312.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/bookclub8312.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/hptbookclub11212.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/hptbookclub11212.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/hptbookclub2118.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://wesharescience.com/na/bookclub/hptbookclub2118.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/hptbookclub2813.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://wesharescience.com/na/bookclub/hptbookclub2813.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/hptbookclub2817.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://wesharescience.com/na/bookclub/hptbookclub2817.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/hptbookclub5313.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/hptbookclub5313.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/hptbookclub5817.mp3",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/bookclub/hptbookclub5817.mp3"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/hptbookclub81213.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://wesharescience.com/na/bookclub/hptbookclub81213.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://wesharescience.com/na/bookclub/hptbookclub81517.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://wesharescience.com/na/bookclub/hptbookclub81517.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://wesharescience.com/na/tools/3686_001.pdf",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20240626234657id_/https://wesharescience.com/na/tools/3686_001.pdf"
+    },
+    {
+      "url": "https://wesharescience.com/na/videos/Gasparilla%20Miracle.mp4?Gasparilla_Miracle_128",
+      "status": "unavailable",
+      "error": "404 Client Error: NOT FOUND for url: http://web.archive.org/web/20250322000000id_/https://wesharescience.com/na/videos/Gasparilla%20Miracle.mp4?Gasparilla_Miracle_128"
+    },
+    {
+      "url": "https://wesharescience.com/na/videos/Roger%20Kaufman_1_6_10.mp3",
+      "status": "unavailable",
+      "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://wesharescience.com/na/videos/Roger%20Kaufman_1_6_10.mp3 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    },
+    {
+      "url": "https://wesharescience.com/rrw/PBDcover1.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231135846id_/https://wesharescience.com/rrw/PBDcover1.jpg"
+    },
+    {
+      "url": "https://www.gapsinresults.com/articles/HPT%20Kaufman%20Interview%20in%20Chinese.pdf",
+      "status": "recovered",
+      "capture_url": "https://web.archive.org/web/20161214192232id_/http://www.gapsinresults.com/articles/HPT%20Kaufman%20Interview%20in%20Chinese.pdf",
+      "path": "assets/90981c7a93bd120d.pdf",
+      "bytes": 2410674
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/Altschuld.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231140010id_/https://www.wesharescience.com/na/timeline/Altschuld.jpg"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/TNA.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231135933id_/https://www.wesharescience.com/na/timeline/TNA.jpg"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/fredericktaylor.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20260101014632id_/https://www.wesharescience.com/na/timeline/fredericktaylor.jpg"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/gilbert.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231140007id_/https://www.wesharescience.com/na/timeline/gilbert.png"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/human.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20260101011937id_/https://www.wesharescience.com/na/timeline/human.jpg"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/kaufman1979.png",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231135932id_/https://www.wesharescience.com/na/timeline/kaufman1979.png"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/kaufmanphoto.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231140026id_/https://www.wesharescience.com/na/timeline/kaufmanphoto.jpg"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/mager.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231135847id_/https://www.wesharescience.com/na/timeline/mager.jpg"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/maslowpic.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231140128id_/https://www.wesharescience.com/na/timeline/maslowpic.jpg"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/pyramid.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231135847id_/https://www.wesharescience.com/na/timeline/pyramid.jpg"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/rummler.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231140052id_/https://www.wesharescience.com/na/timeline/rummler.jpg"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/strategic.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231140010id_/https://www.wesharescience.com/na/timeline/strategic.jpg"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/vonbertalanffy.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231135900id_/https://www.wesharescience.com/na/timeline/vonbertalanffy.jpg"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/watkins.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231135932id_/https://www.wesharescience.com/na/timeline/watkins.jpg"
+    },
+    {
+      "url": "https://www.wesharescience.com/na/timeline/witkun.jpg",
+      "status": "unavailable",
+      "error": "404 Client Error: Not Found for url: http://web.archive.org/web/20251231140003id_/https://www.wesharescience.com/na/timeline/witkun.jpg"
+    }
+  ]
+}

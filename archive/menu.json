@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Overview",
+    "pages": [
+      {
+        "title": "Overview",
+        "url": "https://na.weshareresearch.com/overview/"
+      },
+      {
+        "title": "Introduction",
+        "url": "https://na.weshareresearch.com/overview/introduction-to-needs-assessment/"
+      },
+      {
+        "title": "Essentials",
+        "url": "https://na.weshareresearch.com/overview/essentials/"
+      },
+      {
+        "title": "FAQ",
+        "url": "https://na.weshareresearch.com/overview/faq/"
+      }
+    ]
+  },
+  {
+    "title": "Foundations",
+    "pages": [
+      {
+        "title": "Foundations",
+        "url": "https://na.weshareresearch.com/foundations/"
+      },
+      {
+        "title": "Theories",
+        "url": "https://na.weshareresearch.com/foundations/theories/"
+      },
+      {
+        "title": "Models",
+        "url": "https://na.weshareresearch.com/foundations/models/"
+      },
+      {
+        "title": "History",
+        "url": "https://na.weshareresearch.com/foundations/history/"
+      },
+      {
+        "title": "Philosophy",
+        "url": "https://na.weshareresearch.com/foundations/philosophy/"
+      }
+    ]
+  },
+  {
+    "title": "Resources",
+    "pages": [
+      {
+        "title": "Resources",
+        "url": "https://na.weshareresearch.com/resources/"
+      },
+      {
+        "title": "Search Books/Articles",
+        "url": "https://na.weshareresearch.com/resources/search-books-articles-chapters/"
+      },
+      {
+        "title": "Books",
+        "url": "https://na.weshareresearch.com/resources/books/"
+      },
+      {
+        "title": "Articles/Chapters",
+        "url": "https://na.weshareresearch.com/resources/articles/"
+      },
+      {
+        "title": "E-learnings",
+        "url": "https://na.weshareresearch.com/resources/e-learnings/"
+      },
+      {
+        "title": "Websites",
+        "url": "https://na.weshareresearch.com/resources/websites/"
+      },
+      {
+        "title": "Tools",
+        "url": "https://na.weshareresearch.com/resources/tools/"
+      },
+      {
+        "title": "Media (audio/video)",
+        "url": "https://na.weshareresearch.com/resources/media-audio-video/"
+      },
+      {
+        "title": "Non-English",
+        "url": "https://na.weshareresearch.com/resources/non-english/"
+      }
+    ]
+  },
+  {
+    "title": "Connect",
+    "pages": [
+      {
+        "title": "Connect",
+        "url": "https://na.weshareresearch.com/connect/"
+      },
+      {
+        "title": "Contact Us",
+        "url": "https://na.weshareresearch.com/connect/contact-us/"
+      },
+      {
+        "title": "Listserv",
+        "url": "https://na.weshareresearch.com/connect/listserv/"
+      }
+    ]
+  },
+  {
+    "title": "Expert Chat",
+    "pages": [
+      {
+        "title": "Expert Chat",
+        "url": "https://na.weshareresearch.com/expert-chat/"
+      }
+    ]
+  }
+]

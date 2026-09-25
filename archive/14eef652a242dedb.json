@@ -1,0 +1,8 @@
+{
+  "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Performance-pyramid.pdf",
+  "status": "recovered",
+  "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Performance-pyramid.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+  "capture_url": "http://web.archive.org/web/20240712024457id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Performance-pyramid.pdf",
+  "path": "assets/14eef652a242dedb.pdf",
+  "bytes": 216200
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-2.pdf",
+  "status": "recovered",
+  "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-2.pdf (Caused by NewConnectionError(\"HTTPSConnection(host='web.archive.org', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))",
+  "capture_url": "http://web.archive.org/web/20240720012527id_/https://na.weshareresearch.com/wp-content/uploads/2022/03/Section-2.pdf",
+  "path": "assets/d3cfc23a973cfd2f.pdf",
+  "bytes": 519132
+}

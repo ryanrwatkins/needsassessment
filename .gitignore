@@ -1,0 +1,14 @@
+/_site/
+/.quarto/
+/_catalog.html
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+/PLANNING.md
+/TASKS.md
+/SCRATCHPAD.md
+/PROBLEMS_TBD.md
+/AGENTS.md
+
+**/*.quarto_ipynb

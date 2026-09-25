@@ -1,0 +1,5 @@
+{
+  "url": "https://na.weshareresearch.com/resources/single-record/?pdb=756",
+  "status": "unavailable",
+  "error": "HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /web/20250322000000id_/https://na.weshareresearch.com/resources/single-record/?pdb=756 (Caused by NewConnectionError(\"HTTPConnection(host='web.archive.org', port=80): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+}

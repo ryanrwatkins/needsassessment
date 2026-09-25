@@ -1,0 +1,64 @@
+name: Publish Quarto site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: '1.10.18'
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Install development checks
+        run: python -m pip install -r requirements-dev.txt
+      - name: Validate catalog code and data
+        run: |
+          python -m pytest
+          ruff check scripts tests
+          black --check scripts tests
+          bandit -r scripts
+      - name: Render site
+        run: quarto render
+      - name: Verify expected pages
+        shell: bash
+        run: |
+          for page in index overview foundations resources connect expert-chat; do
+            test -s "_site/${page}.html"
+          done
+          test -d _site/assets
+      - uses: actions/upload-pages-artifact@v4
+        if: github.event_name != 'pull_request'
+        with:
+          path: _site
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

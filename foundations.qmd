@@ -1,0 +1,628 @@
+---
+title: "Foundations"
+---
+
+> Recovered historical content. Resources and references reflect the archived website.
+
+- [History](foundations.qmd#section-history)
+- [Models](foundations.qmd#section-models)
+- [Philosophical Perspectives on Needs](foundations.qmd#section-philosophy)
+- [Theories](foundations.qmd#section-theories)
+
+[Archived source](http://web.archive.org/web/20240612214037/https://na.weshareresearch.com/foundations/)
+
+## Theories {#section-theories}
+
+“A good theory is one that holds together long enough to get you to a better theory”.[1](https://wesharescience.com/na/natheories.html#_ftn1)
+
+The theoretical foundations that underlie a discipline are far from stagnant. They are in continual motion, advancing on a path that may intersect with many disciplines at different times, changing direction and pace as new ideas take root. The same is true for the discipline of needs assessment.  Needs assessment theory is both derived from and informed by numerous other fields of inquiry – including psychology, management, motivation, human resources, capacity development, and others.
+
+Below is a general list of primary theories that contribute to the study or application of needs assessment. If there are others that you would like to have us consider adding, please let us know.
+
+**General Systems Theory**  
+Theorist: Ludwig von Bertalanffy  
+Applicable Principles: Open systems exhibit Equifinality,  Interdependence, Interrelatedness, Connectivity, Synergy  
+Basics: [http://en.wikipedia.org/wiki/Systems\_theory](https://en.wikipedia.org/wiki/Systems_theory)
+
+**Mega Planning**  
+Theorist: Roger Kaufman  
+Applicable Principles: (i) Needs exist at the Mega (societal), Macro (organizational), and Micro (individual/team) levels; (ii) Needs are gaps in results  
+Basics: <http://www.megaplanning.com/>
+
+**Hierarchy of Needs**  
+Theorist: Abraham Maslow  
+Applicable Principles: (i) Needs exist and can be measured; (ii) All needs are not equal in motivating behavior.  
+Basics: [http://en.wikipedia.org/wiki/Maslow%27s\_hierarchy\_of\_needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+
+**Taxonomy of Social Needs**  
+Theorist: J. Bradshaw  
+Applicable Principles: Needs can be categorized as Normative, Comparative, Felt, or Expressed.  
+Basics: <http://www.unescap.org/esid/psis/publications/spps/11/chap3.pdf>
+
+**Appreciative Inquiry**  
+Theorist: David Cooperrider  
+Applicable Principles: (i) An organization is a miracle to be embraced rather than a problem to be solved; (ii) You should build on what is working rather than only trying to fix problems.  
+Basics: <http://appreciativeinquiry.case.edu/>
+
+**Capability Approach**  
+Theorist: Amartya Sen  
+Applicable Principles: (i) There are differences between means and ends; (ii) There are differences between substantive freedoms (capabilities) and outcomes (achieved functionings).  
+Basics: [www.capabilityapproach.org](http://www.capabilityapproach.org/)  or [http://en.wikipedia.org/wiki/Capability\_approach](https://en.wikipedia.org/wiki/Capability_approach)
+
+**Expectancy Theory**  
+Theorist: Victor Vroom  
+Applicable Principles: (i) There are connections among expected behaviors, rewards and organizational goals; (ii) Rewards must relate directly to performance  
+Basics: [http://en.wikipedia.org/wiki/Expectancy\_theory](https://en.wikipedia.org/wiki/Expectancy_theory)
+
+**Performance Engineering**  
+Theorist: Tom Gilbert  
+Applicable Principles: (i) Performance is a function of an interaction between a person’s Behavior and his/her Environment (P = B x E); (ii) Behavior is the product of the personal characteristics of an individual (repertory) and the environment where behaviors occur.  
+Basics: [http://en.wikipedia.org/wiki/Thomas\_Gilbert\_(engineer)](https://en.wikipedia.org/wiki/Thomas_Gilbert_%28engineer%29) or <http://debwagner.info/hpttoolkit/gilbert_bem_hpt.htm>
+
+**Three-legged Stool**  
+Theorist: Richard Swanson  
+Applicable Principles: HRD and Performance Improvement rely on Economics , Psychology, and Systems theories, as well as Ethics.  
+Basics:  [http://richardswanson.com/pdf\_files/Swanson(1999)HRDtheory.pdf](http://richardswanson.com/pdf_files/Swanson%281999%29HRDtheory.pdf)
+
+**Needs Assessment vs. Evaluation**  
+Theorist: Ryan Watkins and Ingrid Guerra-Lopez  
+Applicable Principles: (i) Needs assessments are substantially different from evaluations; (ii) Needs assessment rely on a different knowledge-base and perspective from evaluations, though they share many data collection tools and procedures.  
+Basics: <http://home.gwu.edu/~rwatkins/articles/howdoyou.pdf>
+
+Donald Hebb as quoted in Mintzberg: <http://www.mintzberg.org/pdf/devtheory.pdf>
+
+[Archived source](http://web.archive.org/web/20240416130021/https://na.weshareresearch.com/foundations/theories/)
+
+## Models {#section-models}
+
+As an interdisciplinary field of research, Needs Assessment “models” come from a variety of professions and applications. Below is a partial list of primary “models” in the field and a short description of each — each listed in alphabetical order by the priciple author of the “model”. If you have other “models” that we should add to the list, please email us using the Contact Us link to the left.
+
+Note: Many of the model descriptions are taken from Watkins, R., Leigh, D., Platt, W., and Kaufman, R. (1998). Needs assessment: A digest, review, and comparison of needs assessment literature. *Performance Improvement Journal, 37*(7), 40–53. — and thus may not represent the most current works by several authors. Where possible we have provided current references and included recently contributed models.
+
+[Altschuld](#original-models-witkun) | [Authur](#original-models-authur) | [Burton](#original-models-burton) | [Darraugh](#original-models-darraugh) | [Gilbert](#original-models-gilbert) | [Gordon](#original-models-gordon) | [Hannum](#original-models-hannum) | [Harless](#original-models-harless) | [Johnson](#original-models-johnson) | [Kaufman](#original-models-kaufman) | [Mager](#original-models-mager) |   
+[Ostroff](#original-models-ostroff) | [Robinson](#original-models-robinson) | [Rossett](#original-models-rossett) | [Rothwell](#original-models-rothwell) | [Rummler](#original-models-rummler) | [Wedman](#original-models-wedman) | [W](https://wesharescience.com/na/namodels.html#witkin)[itkin](#original-models-witkun) | [Zemke](#original-models-zemke)
+
+<span id="original-models-authur"></span>
+
+**Authur’s Performance Evaluation Matrix**  
+*Authur, L. (1993). Improving Software Quality. New York: John Wiley and Sons.*
+
+Authur’s model for “investigating the problem” is provided within the context of software development and improvement.  The model suggests that problem assessment begins with an analysis of customers and suppliers.  The model focuses efforts around the requirements of end-users or those “who ultimately serve the external paying customer.”  After customer and supplier requirements are addressed, Arthur recommends that the processes be inspected to “identify defects created in the cycle, use data to identify the root causes of defects from each cycle, and improve the process each time you go through”.  The author furthers the development of the assessment model by adding a “Performance Evaluation Matrix” built around problem themes (or areas) as well as a guide for specifying problem themes.  While the model does not address societal or organizational results specifically, the quality focus on the requirements of both internal and external customers offers software developers tools for improving their products.  However, before improving software the developer should determine if the initial software development was derived from a results focused needs assessment.
+
+<span id="original-models-burton"></span>
+
+**Burton and Merrill’s Four Phase Model**  
+*Burton**, J. & Merrill, P.  (1988) Needs Assessment: Goals, Needs and Priorities. In L. J. Briggs, K. L. Gustafson, M. H. Tillman, (Eds.), Instructional Design: Principles and Applications. Englewood Cliffs, NJ: Educational Technology Publications.*
+
+The four phase model for needs assessment proposed by Burton & Merrill is applicable for practitioners in a variety of disciplines, and recognizes both internal and external clients.  Additionally, this model focuses on “the application of needs assessment in the development of instructional materials at the level of a course” (pp. 25-26) and intentionally does not address societal and organizational results.  Doing so, the authors acknowledge, relies on the assumption that the acquisition of skills learned in a course will contribute to desired societal outcomes and organizational outputs.  This rolling-up – from inputs to process to products – may result in an internally efficient plan of operation where inputs and processes are linked to individual or small group payoffs and assumes, rather than ensures, that higher level results at the societal and organizational levels will follow.  Burton & Merrill’s model utilizes instructional goals, rather than measurable performance objectives, which are presumed to possess the specificity necessary for practical and reliable decision making, and to be accurate.
+
+<span id="original-models-darraugh"></span>
+
+**Darraugh’s Six Step Model**  
+*Darraugh, B. (1991).  It takes six. (six-step model for needs assessment). Training & Development Journal, v45, n3, p21(3)*  
+                   
+The “six-step model for needs assessment” described by Darraugh in this short article appears to parallel Rossett’s (1987) Training Needs Assessment model in its determination of actuals, optimals, attitudes, and causes.  Darraugh does provide readers with fifteen questions that are recommended as essentials to the needs assessment process.  While these questions may provide an orientation to the purpose of a needs assessment, the six steps briefly described in the article are not linked to societal, organizational, nor individual accomplishments and provide little guidance in the procedures of conducting a useful needs assessment.
+
+<span id="original-models-gilbert"></span>
+
+**Gilbert’s Performance Matrix**  
+*Gilbert, T. (1978) Human Competence: Engineering Worthy Performance. New York: McGraw-Hill.*
+
+Gilbert provides an insightful discussion of why and how people differ in opinion concerning various solutions to performance discrepancies.  His focus is on process improvement – well before the popularity of quality management surfaced — as the means by which individual and organizational “performance measures” discrepancies can be closed most efficiently with available resources. In communicating his model, Gilbert provides two versions of a Performance Matrix: one full-scale and another truncated version for application. His proposed Performance Matrix does not specifically address how desired results can be assessed and linked at the societal, organizational, individual and small group levels.  Gilbert asserts that “at whatever level we ultimately wish to draw conclusions about performance, we must begin by identifying the context at a higher level” (pp.120).  However, his discussion of a holistic framework that starts at a “philosophical” level and cascades down to “tactical” and “logistical” levels is reduced in application to “simplified performance matrix” which does not extend beyond a conventional focus on one’s organization. Gilbert’s Performance Matrix does go beyond behavior to the achievement of internal accomplishments necessary for the closure of individual and organizational performance discrepancies.
+
+<span id="original-models-gordon"></span>
+
+**Gordon’s Front-End Analysis Model**  
+*Gordon, S. (1994) Systematic Training Program Design: Maximizing Effectiveness and Minimizing Liability. Englewood Cliffs, NJ: Prentice Hall.*  
+   
+Gordon approaches needs assessment as an analysis activity, and does not so much identify and document gaps in results as discusses inputs and processes which the organization can employ when prescribing training and non-training solutions to its internal clients.  The Front-End Analysis Model rolls-down from desired individual results, though it does not formally address desired small group, organizational, or societal results.  Instead, it acts to identify resource unavailability and/or faulty processes for shortcomings in individual performance.  While the quality and availability of inputs and processes are essential for organizational success, Gordon does not acknowledge systemic errors which, according to W. Edward Deming, are the cause of 80% of performance discrepancies (in Clark, 1994; Triner, et. al., 1996).  Further, the model operates in a primarily reactive mode in which gaps between goals and actions (processes not performance) are shaped by end user’s preference and convenience, rather than data-based organizational requirements.
+
+<span id="original-models-hannum"></span>
+
+**Hannum and Hansen’s Needs Analysis Model**  
+*Hannum, W. & Hansen, C. (1989) Instructional Systems Development in Large Organizations. Englewood Cliffs, N.J: Educational Technology Publications.*
+
+Hannum & Hansen’s support beginning with a top-down, societal needs assessment, but elect in their model to examine only gaps in results at the level of the individual performer and suggest that their model be solely used to document process inefficiencies.  Clearly, efficient processes are essential to the successful operation of any organization.  However, discrepancies that are not demonstrated to have a relationship with actual gaps in results may not necessarily yield effective results.  As such, Hannum & Hansen’s model functions in a “needs analysis” mode without the prior and (we suggest) essential phase of needs assessment which they choose to omit.  Nevertheless, the model is reasonably strong on research methods with guidelines for the collection of hard (independently verifiable) and soft (not independently verifiable) data which are applicable in a variety of settings.
+
+<span id="original-models-harless"></span>
+
+**Harlless’s Front-End Analysis Model**  
+Harless, J. H. (1975). *An ounce of analysis is worth a pound of objectives.* Newnan, Georgia: Harless Performance Guild.
+
+Harless concentrates on performance analysis and cause analysis as tools for finding the most efficient way to correct a performance problem. His focus on results (rather than solutions) aligns his work with the other predominant needs assessment models, and his focus on differentiating symptoms from performance problems can guide many useful assessments. Applications of the model use 13 questions to drive the analysis process; for instance: Do we have a performance problem? How will we know when the problem is solved? What are the alternate subclasses of solution?
+
+<span id="original-models-johnson"></span>
+
+**Johnson’s Training Requirements Model**  
+Johnson, D. (1996). Take two classes and call me in the morning: the case for training wellness. Hospital Materiel Management Quarterly, v17, n3, p21(8)
+
+Johnson acknowledges that his needs assessment model is focused on “training requirements planning” and does not address the identification of performance problems that are likely candidates for training solutions.  But within this limited context and without a clear focus of performance, Johnson does offer several guidelines for determining the role of training within an organization.  The model suggests that the process begins the identification of management’s perception of training and the role of training within the organization.  Then in an approach that parallels other business processes, Johnson recommends the use of a “market survey” for the identification of desired training programs.  Based on the results of the “market survey” training requirements (including what knowledge, skills, and aptitudes to be taught) are defined and analyzed.  The “training requirements planning” continues through the evaluation of training with short-term and long-term feedback.
+
+<span id="original-models-kaufman"></span>
+
+**Kaufman’s Organizational Elements Model**  
+*Kaufman, R., Oakley-Brown, H., Watkins, R., and Leigh, D. (2003).**Strategic planning for success: Aligning people, performance, and payoffs.**San Francisco: Jossey-Bass.*
+
+Watkins, R. (2007). *Performance By Design: The systematic selection, design, and development of performance technologies that produce useful results*. Amherst, Ma:HRD Press and Silver Spring, Md:International Society for Performance Improvement.
+
+Kaufman’s Organizational Elements Model (OEM) is the only needs assessment framework reviewed that formally addresses the linkages between every results focus (societal, organizational, small group and individual).  The OEM framework suggest that a needs assessment begin with a focus on societal results (referred to as Mega level results) and roll-down to organizational (Macro level) and individual or small group (Micro level) results.  Functional, both proactively and reactively, the OEM is a dynamic template that can be used to identify the impact of organizational action at all levels of results.  Though a direct distinction is not made between individuals and small groups, Kaufman’s outside-in approach to planning and inside-out approach to implementation yields findings which may be applied to data-based decision making.  Also included in his approach are several algorithms and toolkits which are intended to aid in the implementation of needs assessments.
+
+<span id="original-models-mager"></span>
+
+**Mager and Pipe’s Performance Analysis Model**  
+*Mager, R. F. & Pipe, P.  (1997)  Analyzing Performance Problems.  (3rd edit.) Atlanta, GA: The Center for Effective Performance, Inc.*
+
+The scope of Mager & Pipe’s model extends as far as the individual performer and, by extension, the organization itself.  Additionally, the model is fundamentally reactive, primarily intended for making only adjustments to the status quo at the level of individual and small group performance. Mager & Pipe hold that cost-benefit is the best approach to solution selection but do not explicitly detail a process by which alternate solutions are generated. Additionally, Mager & Pipe do not directly address formative evaluation and continuous improvement despite Quality Management’s emphasis on data-based decision making – a goal of the “Performance Analysis Flow Diagram”.
+
+<span id="original-models-ostroff"></span>
+
+**Ostroff and Ford’s Levels Perspective Model**  
+*Ostroff, C. & Ford, J.K (1989) Assessing Training Needs: Critical Levels of Analysis. In I. L. Goldstein, (Ed.), Training and Development in Organizations. San Francisco: Jossey-Bass Publishers.*
+
+Ostroff & Ford’s model is one of several models for needs assessment derived from McGehee & Thayer’s 1961 text *Training in Business and Industry*.  This text proposes that training requirements be analyzed according to three “content areas”: organizational, task, and person. Ostroff & Ford expand this framework by including a “levels” dimension (consisting of organizational, sub-unit, and individual) as well as an “application” dimension (incorporating the issues of conceptualization, operationalization, and interpretation).  Twenty-seven discreet analyses can be conducted based on similarities and differences of constructs between and across various “levels”.  In addition to the significant logistical difficulty of managing such an analysis, Ostroff & Ford provide no examples, tools, or methods regarding application of their model.  Further, their model approaches needs assessment as a rolling-up process, similar to Burton & Merrill, and does not link organizational means to ends and external consequences.  Without a doubt, the “Levels Perspective Model”is one of the most dense and theoretically conceived models in this study, however the model does not consider external impact.
+
+<span id="original-models-robinson"></span>
+
+**Robinson and Robinson’s Performance Relationship Map**  
+*Robinson, D. G. & Robinson, J. C. (1995) Performance Consulting: Moving Beyond Training.  Berrett-Koehler.*
+
+Similar to Gordon’s “Front-End Analysis Model of Needs Assessment,” the Performance Relationship Map emphasizes both training and non-training solutions to individual and small group performance discrepancies.  The authors suggest that business goals, objectives, and strategies for a unit, division, department, or entire organization serve as the basis against which all performance requirements are to be anchored.  Applying a Performance Relationship Map includes involving a wide variety of stakeholders into defining performance problems, and bases solution selection in value-added for the individual performer and the organization as a whole, rather than for external clients and society.  Instead, key performance requirements are identified according to perceived importance of job practices and competencies versus the current skill level of performers.  While this approach is internally efficient it does not causally link individual performance to organizational or societal success.
+
+<span id="original-models-rossett"></span>
+
+**Rossett’s Training Needs Assessment Model**  
+*Rossett, A. (1987)  Training Needs Assessment. Englewood Cliffs, NJ: Educational Technology Publishing Co.*
+
+Perhaps one of the most widely used training requirements analysis models currently in use by business and industry, Rossett’s reactive model seeks to lessen the gap between “optimal” and ‘actual” individual and small group performance.  The procedure for this activity involves responding to initiating performance discrepancies by first identifying the source of problems (causal analysis), then gathering opinions and ideas from primarily soft data sources using the largely qualitative methods of collection.  Rossett holds that findings are to be used for decision making, but does not demonstrate how individual and small group results ensure desired organizational and societal payoff.  *Training Needs Assessment* provides many useful tools which may be employed during needs analysis and can be quite helpful to practitioners new to data collection.
+
+<span id="original-models-rothwell"></span>
+
+**Rothwell and Kazanas’ Needs Assessment for Planning Model**  
+*Rothwell, W. J. & Kazanas, H.C. (1992) Mastering the Instructional Design Process: A Systematic Approach. San Francisco: Jossey-Bass Publishers.*
+
+Rothwell & Kazanas take great pains to establish operational definitions of the constructs associated with needs assessment.  Differentiating the planning process, from the tangible plan and the implementation of the needs assessment, the authors establish a model that is relatively consistent with the definitions used in this study.  Their guide to conducting a needs assessment functions well as a management and implementation plan and is strong concerning sampling and data collection.  As with Burton & Merrill’s “Four Phase Needs Assessment Model”, Rothwell & Kazanas’ model relies on two main assumptions.  First, the authors presuppose that intended results will necessarily follow from individual and small group application of skills.  Second, they assume that instructional goals possess the rigor necessary for decision-making, and will contribute to individual, small group, organizational and societal consequences.  Review of the Rothwell & Kazanas model may be useful in the development of a needs assessment management plan, though its utilization could lead an organization away from identified and required consequences of an intervention unless based in a rigorous results-based needs assessment.
+
+<span id="original-models-rummler"></span>
+
+**Rummler and Brache’s Relationship Map***Rummler, G. A. & Brache, A. P.  (1990)  Improving performance: How to manage the white space on the organization chart.  San Francisco: Jossey-Bass Publishers.*
+
+The Relationship Map is a proposed improvement to the organizational maps common in many fields.  The major contribution of the Relationship Map is the provision of a horizontal systems perspective which includes recognition of internal and external clients, outputs delivered to customers outside the organization, and the flow of work which transforms inputs to products and outputs.  This mapping provides a systems view which can be useful to needs assessment initiatives.  The application of this tool with other models (especially the societal results focus of Kaufman’s OEM) may increase the utility of the needs assessment effort.  In a latter chapter of their text Rummler & Brache go on to explain how their Map can be used to design an efficient organizational structure by comparing current and desired processes.  While the authors discuss this activity from the organizational, process, and job/performer levels, their concern is primarily with resource availability and process efficiency.  Though external environmental factors are discussed as inputs to the organizational system, the model does not seem to address the reverse… the societal impact of organizational outputs.   Due to this disposition, the Relationship Map might infer that the results achieved by the organization will deliver beneficial results to external clients and society.
+
+<span id="original-models-wedman"></span>
+
+**Wedman’s Performance Pyramid Model**Watkins, R., and Wedman, J. (2003). A process for aligning performance improvement resources and strategies. Performance Improvement Journal, 42(7), 9–17.  
+  
+Watkins, R. and Leigh, D. (Eds.) (2009). The Handbook of Improving Performance in the Workplace – Volume 2: Selecting and Implementing Performance Interventions. San Francisco: Wiley-Jossey/Bass and Silver Spring, MD: ISPI.
+
+John Wedman’s Performance Pyramid Model offers a comprehensive systems model, guiding performance improvement initiatives by building on both the foundational pyramid framework that is at the center and examining the supporting components that form a performance system—inputs, processes, and results. The result is a useful model for systemically accomplishing significant results, linking together the various systems (e.g., expectations & feedback; incentives, rewards & recognition; capacity; knowledge and skills; vision, mission & objectives) to provide a holistic performance systems perspective. You can use the Performance Pyramid to analyze current performance problems within your organization and to assess the various interventions as option making improvements.
+
+<span id="original-models-witkun"></span>
+
+**Witkin and Altschuld’s Three Phase Needs Assessment Model***Altschuld, J. W. (2010). The Needs Assessment KIT. (ed.). Thousand Oaks, CA: SAGE Publications. [5 volume series with individual titles listed in the Books section of this site]*  
+ *Witkin, B. R. & Altschuld, J. W. (1995) Planning and Conducting Needs Assessments: A Practical Guide.  Thousand Oaks, CA. Sage Publications.*
+
+The Three-Phase Model proposed by Witkin & Altschuld is actually an analysis, assessment and action plan framework embedded within one method.  These processes occur over three phases: preassessment (exploration), assessment (data gathering), and postassessment (utilization).  As the first and last phase go beyond the scope of needs assessment as defined here, the model is actually a plan for problem identification and resolution.  As a reactive model, the authors describe needs assessment as a means by which to cope with current and future problems and constraints via risk identification techniques, rather than anticipating and creating future opportunities.  This philosophical underpinning is significant because it contributes to the absence of formal concern with societal payoffs of organizational action.  Rather, the focus of Witkin & Altschuld’s model tends to be on process improvement and the achievement of the organization’s goals for individuals and small groups.  Organizational payoff is assumed to flow directly from the accomplishment of these goals with external clients functioning only in the context of demand and consumption of organizational outputs.
+
+<span id="original-models-zemke"></span>
+
+**Zemke and Kramlinger’s Figuring Things Out Model**Zemke, R. and Kramlinger, T. (1985). Figuring Things Out: A trainers guide to needs and task analysis. Reading, MA: Addison-Wesley.
+
+The Zemke and Kramlinger’s Figuring Things Out (FTO) model is composed of factors that affect performance in an organization.  The factors are detailed in three primary arenas: performer, local performance environment, and organizational climate.  The authors suggest that an FTO study begins by capturing the organizational climate and culture data, including how the mission and goals of the organization are translated into actions at the functional/operational levels.  Though from this point on, the FTO model mirrors many conventional task analyses.  Comparable to Rossett’s Training Needs Assessment, Zemke and Kramlinger devote most of their effort to providing tools and guides for collecting both hard and soft data within an organization. The FTO model, like many of the needs assessment models examined in this digest, infers that the results achieved by the performer will be beneficial to internal and external clients as well as society.
+
+[Archived source](http://web.archive.org/web/20250427001927/https://na.weshareresearch.com/foundations/models/)
+
+## History {#section-history}
+
+**1911**
+
+Taylor, Frederick Winslow (1911), The Principles of Scientific Management, New York, NY, USA and London, UK: Harper & Brothers
+
+[Archived image](http://www.wesharescience.com/na/timeline/fredericktaylor.jpg)
+
+**1954**
+
+Abraham Maslow introduces a hierarchy of needs, which popularizing the concept of needs being more than just those things that people could not live without.
+
+Maslow, Abraham. (1954) *Motivation and personality.*Harper and Row New York, New York.
+
+[Archived image](http://www.wesharescience.com/na/timeline/maslowpic.jpg)
+
+**1956**
+
+James, Bernard. “Can Needs Define Educational Goals?” Adult Education 6 (1956), 95-100.
+
+**1966**
+
+Corrigan, R. E., & Kaufman, R. (1966). Why System Engineering. Palo Alto, CA: Fearon Publishers.
+
+**1967**
+
+Gilbert, T. (1967). *Praxeonomy: A systematic approach to identifying training needs.*Management of Personnel Quarterly; 6, 3; pg. 20
+
+[Archived image](http://www.wesharescience.com/na/timeline/gilbert.png)
+
+**1969**
+
+Bertalanffy, L. von, (1969). General System Theory. New York: George Braziller.
+
+[Archived image](http://www.wesharescience.com/na/timeline/vonbertalanffy.jpg)
+
+**1970**
+
+Mager, R. & Pipe, P. (1970). Analyzing Performance Problems, or You Really Oughta Wanna. Belmont, CA: Lake Publishing Co.
+
+[Archived image](http://www.wesharescience.com/na/timeline/mager.jpg)
+
+Lessinger, L. M. (1970). Every Kid A Winner. New York: Simon & Schuster.
+
+**1972**
+
+Kaufman, R. A. (1972). Educational System Planning. Englewood Cliffs, NJ: Prentice Hall, Inc. (Also Planificacion de Systemas Educativos [translation of Educational System Planning]). Mexico City: Editorial Trillas, S.A., 1973).
+
+Bradshaw J. (1972) Â“A taxonomy of social need.Â” in McLachlan G (ed.) Problems and progress in medical care. Seventh series NPHT/Open University Press.
+
+**1975**
+
+Harless, J. H. (1975). An ounce of analysis is worth a pound of objectives. Newnan, Georgia: Harless Performance Guild.
+
+Branson, R. K., et al. (1975:Aug.). Interservice procedures for instructional systems development (Phases I, II, III, IV, V, and Executive Summary. U.S. Army Training and Doctrine Command Pamphlet 350. Fort Monroe, VA.
+
+English, F. W. & Kaufman, R. (1975). Needs assessment: Focus for curriculum development. Washington, DC: Association for Supervision and Curriculum Development (ASCD).
+
+**1976**
+
+The first (and only) National Needs Assessment Conference was held in Oakland, California. The conference was sponsored by the National Institute of Education and the International Society of Educational Planners. Described in: Witkin, R.B. (1976). Needs Assessment: State of the Art. Educational Planning. 3(2), 1-5.
+
+Kaufman, R. (1976). Identifying & Solving Problems: A system approach. San Diego, CA: University Associates Publishers. Kaufman, R., & English, F. W. (1976). Needs Assessment: A Guide for Educational Managers. Arlington, VA: American Association of School Administrators.
+
+Kaufman, R. (1976). System approaches to education. In S. E. Goodman (Ed.), Handbook on contemporary education, 107 113. New York: R. R. Bowker Co. (Xerox Educational Corporation).
+
+Kaufman, R. (1976). Organizational improvement: A review of models and an attempted synthesis. Group and Organization Studies, 1(4), 474-495.
+
+**1977**
+
+Burton, J. K. & Merrill, P. F. (1977). Needs assessment: Goals, needs and priorities. In L. J. Briggs (Ed.) Introduction to Instructional Design. Englewood Cliffs, NJ: Educational Technology Publications.
+
+Monette, Maurice L. “The Concept of Educational Need: An Analysis of Selected Literature.” Adult Education 27 (1977), 116-27.
+
+Kaufman, R. (1977). Needs assessment: Internal and external. Journal of Instructional Development, 1(1), 5-8. (Also reprinted in Revista de Tecnologia Educativa, No. 1, Vol. 3, 1977).
+
+1978
+
+[Archived image](http://www.wesharescience.com/na/timeline/human.jpg)
+
+Â
+
+Gilbert, T. (1978) Human Competence: Engineering Worthy Performance. New York: McGraw-Hill.  
+**1979**
+
+[Archived image](http://www.wesharescience.com/na/timeline/kaufman1979.png)
+
+Kaufman, R., & English, F. W. (1979). Needs assessment: Concept and Application. Englewood Cliffs, NJ: Educational Technology Publications.  
+  
+Kaufman, R. (1979). Identifying and Solving PRob  
+  
+Maurice L. Monette (1979). â€¨Need Assessment: a Critique of Philosophical Assumptions. Adult Education Quarterly 29; 83  
+**1981**
+
+Kaufman, R. (1981). Determining and diagnosing organizational needs. Group and Organizational Studies, 6(3), 312-322.
+
+**1982**
+
+Zemke, R., & Kramlinger, T. (1982). Figuring Things Out: A trainer’s guide to needs and task analysis. Boston, MA: Addison-Wesley.
+
+**1983**
+
+Kaufman, R. and Stone, B. (1983). Planning for Organizational Success: A practical guide. New York:Wiley.
+
+Lareau, L. (1983). Needs Assessment of the Elderly: Conclusions and Methodological Approaches. The Gerontologist. 23 (5): 518-526.
+
+Kaufman, R. (1983). Needs assessment. In F. W. English (Ed.), Fundamental Curriculum Decisions. Alexandria, VA: Association for Supervisory and Curriculum Development.
+
+Ulschak, F. (1983). Human Resource Development: The theory and practice of needs assessment. Reston, VA: Reston Publishing.
+
+**1985**
+
+Sen, A. (1985). Commodities and Capabilities. Amsterdam: North-Holland.
+
+Corrigan, R. E., & Corrigan, Betty O. (1985). SAFE: System approach for effectiveness. New Orleans, LA: R. E. Corrigan Associates.
+
+**1987**
+
+Rossett, A. (1987). Training needs assessment. Englewood Cliffs, NJ: Educational Technology Publishing Co.
+
+[Archived image](http://www.wesharescience.com/na/timeline/TNA.jpg)
+
+Johnson, D., Meiller, L., Miller, L. & Summers, G. (1987), Needs assessment: Theory and methods. Ames, IA: Iowa State University Press.
+
+Thomson, G. (1987). Needs. London: Routledge and Kegan Paul.
+
+**1988**
+
+Kaufman, R. (1988). Planning educational systems: A results based approach. Lancaster, PA & Basil, Switzerland: Technomic Publishing Co
+
+**1989**
+
+Robinson, D. G. Robinson, J. C. (1989). Training for impact: How to link training to business needs and measure the results. San Francisco: Jossey-Bass.
+
+Ostroff, C. & Ford, J.K (1989) Assessing Training Needs: Critical Levels of Analysis. In I. L. Goldstein, (Ed.),Training and Development in Organizations. San Francisco: Jossey-Bass Publishers.
+
+Gilbert, T. F., & Gilbert, M. B. (1989, Jan.). Performance engineering: Making human productivity a science. Performance & Instruction.
+
+**1990**
+
+Rummler, G. A. & Brache, A. P. (1990) Improving performance: How to manage the white space on the organization chart. San Francisco: Jossey-Bass Publishers.
+
+[Archived image](http://www.wesharescience.com/na/timeline/rummler.jpg)
+
+**1991**
+
+Darraugh, B. (1991). It takes (six-step model for needs assessment). Training & Development Journal, v45, n3, p21(3)
+
+**1992**
+
+Kaufman, R. (1992). Strategic planning plus. Thousand Oaks, CA: Sage Publishing.
+
+Banathy, B. H. (1992). A systems view of education: Concepts and principles for effective practice. Englewood Cliffs, NJ: Educational Technology Publications.
+
+**1993**
+
+Kaufman, R., Rojas, A., & Mayer, H. (1993). Needs assessment: A user’s guide. Englewood Cliffs, NJ., Educational Technology
+
+**1994**
+
+Witkin, B. R. (1994). Needs Assessment Since 1981: The State of the Practice. Evaluation Practice, 15 (1), 17-27.
+
+**1995**
+
+[Archived image](http://www.wesharescience.com/na/timeline/witkun.jpg)
+
+Witkin, B. R., & Altschuld, J. W. (1995). Planning and conducting needs assessments: A practical guide.Sage Publications; Thousand Oaks, CA.  
+  
+**1996**
+
+Watkins, R. & Kaufman, R. (1996: Nov.). An Update on Relating Needs Assessment and Needs Analysis. Performance Improvement, 35 (10), 10-13.
+
+Triner, D.,Greenberry, A. and Watkins, R. (1996). Training Needs Assessment: A Contradiction in Terms. Educational Technology, 36(6), 51-55.
+
+**1997**
+
+Endacott, R. (1997). Clarifying the concept of need: a comparison of two approaches to concept analysis. Journal of Advanced Nursing, 25, 471-476.
+
+**1998**
+
+Watkins, R., Leigh, D. And Kaufman, R. (1998). Needs Assessment: A digest, review, and comparison of needs assessment literature. Performance Improvement Journal, 37(7), 40-53.
+
+Kaufman, R. (1998). Strategic thinking: A guide to identifying and solving problems, Revised Ed. Washington, D.C. & Arlington, VA: The International Society for Performance Improvement.
+
+Harless, J. (1998). The Eden Conspiracy: Educating for Accomplished Citizenship. Wheaton, IL: Guild V Publications.
+
+**2003**
+
+Kaufman, R., Oakley-Brown, H., Watkins, R., and Leigh, D. (2003). *Strategic planning for success: Aligning people, performance, and payoffs.*San Francisco: Jossey-Bass.
+
+[Archived image](http://www.wesharescience.com/na/timeline/strategic.jpg)
+
+Â
+
+Watkins, R., and Wedman, J. (2003). A process for aligning performance improvement resources and strategies. Performance Improvement Journal, 42(7), 9-17.
+
+[Archived image](http://www.wesharescience.com/na/timeline/pyramid.jpg)
+
+Hamilton, L. A. (2003). The Political Philosophy of Needs. Cambridge.
+
+**2005**
+
+Reader, S. (ed.) (2005), The Philosophy of Need, Cambridge: Cambridge University Press.
+
+**2006**
+
+Kaufman, R. (2006). 30 Seconds That Can Change Your Life: A Decision-Making Guide for Those Who Refuse to be Mediocre. Amherst, MA: HRD Press.  
+  
+Kaufman, R. (2006). Change, Choices, and Consequences: A Guide to Mega Thinking and Planning. Amherst, MA. HRD Press Inc.
+
+[Archived image](http://www.wesharescience.com/na/timeline/kaufmanphoto.jpg)
+
+Â
+
+**2007**
+
+[Archived image](https://wesharescience.com/rrw/PBDcover1.jpg)
+
+Â
+
+Watkins, R. (2007). Performance By Design: The systematic selection, design, and development of performance technologies that produce useful results. Amherst, Ma:HRD Press and Silver Spring, Md:International Society for Performance Improvement.  
+**2008**
+
+Kaufman, R, & Guerra-Lopez, I. (2008) The Assessment Book: Applied Strategic Thinking and Performance Improvement Through Self-assessments. Amherst, MA. HRD Press Inc.
+
+**2009**
+
+Watkins, R. and Leigh, D. (Eds.) (2009). *The Handbook of Improving Performance in the Workplace – Volume 2: Selecting and Implementing Performance Interventions.* San Francisco: Wiley-Jossey/Bass and Silver Spring, MD: ISPI.  
+**2010**
+
+Altschuld, J. W. (2010). The Needs Assessment KIT. (ed.). Thousand Oaks, CA: SAGE Publications. [5 volume series]
+
+Altschuld, J. W. (2010). The Needs Assessment KIT. (ed.). Thousand Oaks, CA: SAGE Publications. [5 volume series]
+
+[Archived image](http://www.wesharescience.com/na/timeline/Altschuld.jpg)
+
+Moore, S. (2010). Ethics by Design: Strategic Thinking and Planning for Exemplary Performance, Responsible Results, and Societal Accountability. Amherst, MA. HRD Press.
+
+**2012**
+
+[Archived image](http://www.wesharescience.com/na/timeline/watkins.jpg)
+
+Watkins, R., West-Meiers, M., & Visser, Y. (2012).*A guide to assessing needs: Tools for collecting* *information, making decisions, and achieving development results.*Â Washington, DC: World Bank.  
+  
+Available for **free** online at [NeedsAssessment.org](http://www.needsassessment.org/) or through the World Bank.  
+**2014**
+
+[Archived image](http://www.sagepub.com/upm-data/product/58233_9781452220192.jpg)
+
+Altschuld, J.W. (2014) Bridging the Gap between Asset/Capacity Building and Needs Assessment: Concepts and Practical Applications. Sage Publications; Thousand Oaks, CA.
+
+Altschuld, J.W. and Watkins, R. EdS (2014). [Special Issue: Needs Assessment: Trends and a View Toward the Future](http://onlinelibrary.wiley.com/doi/10.1002/ev.2014.2014.issue-144/issuetoc). New Directions in Evaluation (an Amer. Eval. Assoc. publication).  This special issue of the journal includes eight original articles on needs assessment.
+
+[Archived source](http://web.archive.org/web/20251231135718/https://na.weshareresearch.com/foundations/history/)
+
+## Philosophy {#section-philosophy}
+
+How we fundamentally view “needs” is a critical foundation for how they influence our decisions and guide our assessments.  The following resources offer a glimpse into the research and conversations on the topic within a variety of disciplines.  
+Note: Special thanks to Jolanta Kavale for initially developing this resource page.
+
+### **Development**
+
+Doyal, L., & Gough. I. (1991). *A theory of human need*. New York: Guilford.
+
+Galtung, J. (1980). The basic needs approach. In K. Lederer (Ed.).*Human needs* (pp.  55-125). Cambridge, MA: Oelgeschlager, Gunn & Hain.  
+[http://www.transcend.org/galtung/papers/The%20Basic%20Needs%20Approach.pdf](https://www.transcend.org/galtung/papers/The%20Basic%20Needs%20Approach.pdf)  
+  
+Max-Neef MA, Elizalde A, Hopenhayn M. (1991). Development and Human Needs. In: Max-Neef MA. (ed.). *Human scale development: conception, application and further reflections*. The Apex Press: London, New York, pp13-54.
+
+Rauschmayer, F., Omann, I., Frühmann, J. (eds.), 2010: *Sustainable Development: Capabilities, Needs and Well-being*. Routledge – Abingdon. <http://seri.at/wp-content/uploads/2010/11/Sustainable-development-needs-capabilities-and-wellbeing_-summary2.pdf>
+
+Rauschmayer, F., Omann, I., Frühmann, J. (2010). Needs, capabilities, and quality of life. Re-conceptualizing Sustainable Development. In: Rauschmayer, F., Omann, I., Frühmann, J. (eds.) (2010): *Sustainable Development: Capabilities, needs, and well-being*. Routledge.
+
+Rauschmayer, F., Omann, I., Frühmann, J. (2010). Are needs the missing link? From resources through capabilities and needs to well-being. <http://fromgdptowellbeing.univpm.it/doc/papers/GDP2WB_018.pdf>
+
+Tobar-Arbulu, J.F. (1987). Human Needs and Development. *International Journal of Basque Studies*, Vol 32, No. 2, 1987, p.363-394 http://www.euskomedia.org/PDFAnlt/riev/32/32363393.pdf
+
+Watkins, R., West-Meiers, M., & Visser, Y. (2012). *A guide to assessing needs: Tools for collecting*  
+*information, making decisions, and achieving development results.* Washington, DC: World Bank. <http://ryanrwatkins.com/na/guidebook.html>
+
+### **Healthcare**
+
+Alvarez, Allen (2009). The Cross-Cultural Importance of Satisfying Needs. Bioethics. Volume 23 Number 9, pp 486–496
+
+Anders H. and David, H. (May 2016). Measuring needs for priority setting in healthcare planning and policy. Social Science & Medicine. Volume 157, May 2016, Pages 96–102
+
+Batifoulier, P. (2010). The philosophy of need and the normative foundations of health policy. Philippe
+
+Batifoulier, John Latsis, Jacques Merchiers  (eds.). In*: Revue de philosophie économique*, Vol. 10, No. 1 p. 79-101.
+
+Endacott, R. (1997). Clarifying the concept of need: a comparison of two approaches to concept analysis. *Journal of Advanced Nursing*, 25, 471-476.
+
+Juth, N. (2015. Challenges for Principles of Need in Health Care. Health Care Anal. 23:73–87 DOI 10.1007/s10728-013-0242-7
+
+### **Political science**
+
+Bay, Christian (Sept. 1968) Needs, Wants, and Political Legitimacy. Canadian Journal of Political Science / Revue canadienne de science politique, Vol. 1, No. 3, pp. 241-260
+
+Evrenosoglu, D. (2007). The Ontological and the Political Significance of the Concept of Need in Political Philosophy, Istanbul, 2007 <http://www.inter-disciplinary.net/wp-content/uploads/2010/02/demetpaper.pdf>
+
+Hamilton, L. A. (2009). Human Needs and Political Judgment. In Zurn & de Bruin (eds.). *New Waves in Political Philosophy.* Palgrave. <http://www.mohamedrabeea.com/books/book1_10580.pdf>
+
+Hamilton, L. A. (2008). Needs and Agency, In J. Peil & I. van Staveren (Eds.), *Handbook of Economics and Ethics.* Edward Elgar Publishing.
+
+Hamilton, L. A. (2006). The Context and Argument of The Political Philosophy of Needs (Symposium on The Political Philosophy of Needs), *The South African Journal of Philosophy* 25. 3 (2006)
+
+Hamilton, L. A. (2003). *The Political Philosophy of Needs*. Cambridge.
+
+Heller, A. (1980). Can „True‟ and „False‟ Needs be Posited? In Katrin Lederer (ed.). *Humans Needs: A Contribution to the Current Debate*. Cambridge, Mass: Oelgeschalger, Gunn, and Hain.
+
+Korolev, A. (2015). Regime Responsiveness to Basic Needs: A Dimensional Approach. Studies in Comparative International Development (DOI: 10.1007/s12116-015-9209-z)
+
+Thomson, G. (1987). *Needs.* London: Routledge and Kegan Paul.
+
+### **Social sciences**
+
+Anders H. and David H. (May 2016). A Model and Indicator of Aggregate Need Satisfaction for Capped Objectives and Weighting Schemes for Situations of Scarcity. Social Indicators Research. pp 1-18
+
+Dean, H. (2010). *Understanding human need*. Bristol: Policy Press.
+
+Gasper, D. (1996). *Needs and Basic Needs: A Clarification of Meanings, Levels and different streams of work.* Institute of Social Studies Working Paper #210. <http://repub.eur.nl/res/pub/18952/wp210.pdf>
+
+Gasper, D. (2009). Human Needs and Well-Being. In J. Peil & I. van Staveren (Eds.). *Handbook of Economics and Ethics* (pp. 348-357).
+
+Hassoun, N. (2009). *The minimally good human life account of needs.* Carnegie Mellon University Working Paper. Pittsburgh: Carnegie Mellon University.
+
+Lister, R. (2010). *Understanding theories and concepts in social policy*. Bristol: Policy Press.
+
+Mallmann, C. A.  (1980). Society, needs, and rights: A systematic approach. In K. Lederer (Ed.), *Human needs: A contribution to the current debate* (pp. 37-54). Cambridge: Oelenschlager.
+
+Spicker, P. (1993). Needs as claims. Social Policy and Administration, 27 (1), pp. 7-17. Available from: http://openair.rgu.ac.uk
+
+Taylor, P. (April, 1959). “Need” Statements. Analysis, Vol. 19, No. 5. , pp. 106-111.
+
+### **Economics/Social Economics**
+
+Alkire, S. (2003). Needs and capabilities. <http://192.203.177.38/humanismocristiano/seminario_capability/pdf/1.pdf>
+
+Armour, L. (2011). The puzzles and paradoxes of human need: an introduction*. International Journal of Social Economics*, Vol. 38 Iss: 3 pp. 180 – 191
+
+Clarke, J., & Langan, M. (1998). Review. In M. Langan (Ed.), *Welfare: Needs, rights and risks.* London and New York: Routledge.
+
+Freeman, K. B. (2011). Human needs and utility maximization*. International Journal of Social Economics*, Vol. 38 Iss: 3 pp. 224 – 236
+
+Gomes, O. (2011). The hierarchy of human needs and their social valuation. *International Journal of Social Economics*, Vol. 38 Iss: 3 pp. 237 – 259
+
+Gough, I. (2015). Climate change and sustainable welfare: the centrality of human needs. Cambridge Journal of Economics. doi:10.1093/cje/bev039
+
+Jackson, T., Jager, W., & Stagl, S. (2004). Beyond insatiability: Needs theory, consumption and sustainability. In L. A. Reisch & I. Røpke (Eds.), *The ecological economics of consumption* (pp. 79-110). Cheltenham: Edward Elgar.
+
+McCain, R. A. (2011). Why Need is A Word We Cannot Do Without in Economics, Forum for Social Economics, 2011
+
+### **Philosophy**
+
+Brock, G., & Reader, S. (2002). Needs-Centered Ethical Theory. *Journal of Value Inquiry* 36 (4).
+
+Frankfurt, H.  (Sept. 1984). Necessity and Desire. Philosophy and Phenomenological Research, Vol. 45, No. 1, pp. 1-13.
+
+Goodin, R. (June 1985). The Priority of Needs. Philosophy and Phenomenological Research, Vol. 45, No. 4, pp. 615-625
+
+McLeod, S. K. (2011). Knowledge of need. *International Journal of Philosophical Studies*, 19(2), 211-230.
+
+McLeod, S. K. (2014). Absolute Biological Needs. Bioethics ISSN 0269-9702 (print); 1467-8519 (online) doi:10.1111/bioe.12020
+
+Reader, S. (2011). Ethical Necessities. *Philosophy*86 (04):589-607.
+
+Reader, S. (2007). *Needs and Moral Necessity.* Routledge.
+
+Reader, S. (2006). Does a Basic Needs Approach Need Capabilities? *Journal of Political Philosophy* 14 (3):337–350.
+
+Reader, S. (ed.) (2005), *The Philosophy of Need*, Cambridge: Cambridge University Press.  
+<http://www.scribd.com/doc/68618658/The-Philosophy-of-Need>
+
+Reader, S. (2005). Aristotle on Necessities and Needs. *Royal Institute of Philosophy Supplements* 80 (57):113-.
+
+Stamp,  D. W. (1988). Need. *Australasian Journal of Philosophy* 66 (2):129 – 160.
+
+Taylor, P.W. (1959). „Need“ statements. *Analysis*, 19, 106 – 111.
+
+Wiggins, D. (1987). Needs, need, needing. Journal of Medical Ethics. 13, 62-68.  <http://jme.bmj.com/content/13/2/62.full.pdf>
+
+Wiggins, D. (1987). Claims of need.  In D. Wiggins (Ed.), *Needs, values, truth: Essays in philosophy* (pp. 1-57). Oxford: Basil Blackwell
+
+Wolniewicz, B. (1991). Needs and value. In *Logic and ethics*.(Ed.). Geach,P. Dordrecht: Kluwer 1991.
+
+### **Psychology, peace studies and other**
+
+Chen, B., Mouratidis, A., Ryan, R. M., Sheldon, K.M., Soenens, B., Van Petegem, S. & Verstuyf, J., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-Deeder, J., Duriez, B., Lens, W., & Matos, L. (2015). Basic psychological need satisfaction, need frustration, and need strength across four cultures. Motivation and Emotion, 39, 216-236. doi: DOI 10.1007/s11031-014-9450-1
+
+Cody R. DeHaan, Tadashi Hirai, Richard M. Ryan. (2015) Nussbaum’s Capabilities and Self-Determination Theory’s Basic Psychological Needs: Relating Some Fundamentals of Human Wellness. Journal of Happiness Studies.
+
+Deci, E. L., & Vansteenkiste, M. (2004). Self-determination theory and basic need satisfaction: Understanding human development in positive psychology. Ricerche di Psichologia, 27, 17-34.
+
+Deci, E. L., & Ryan, R. M. (2000). The ‘what’ and ‘why’ of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry, 11, 227-268.
+
+Oppenheimer, J. (2011). Universals, Knowledge Claims, and Methods. The Good Society. Vol. 20, No. 2, pp. 249-280
+
+Park, L. (2010). Opening the Black Box: Theory of Human Needs Reconsidered. *International Journal of Peace Studies*, Volume 15, Number 1, Spring/Summer 2010 <http://www.gmu.edu/programs/icar/ijps/vol15_1/PARK15n1-IJPS.pdf>
+
+Rubenstein, R. E. (2001). “Basic Human Needs: The Next Steps in Theory Development.” *The International Journal of Peace Studies*, 6 (1): 51-58. <http://www.gmu.edu/programs/icar/ijps/vol6_1/Rubenstein.htm>
+
+Ryan, R. M., & Deci, E. L. (2006). Self-regulation and the problem of human autonomy: Does psychology need choice, self-determiniation, and will?. Journal of Personality, 74, 1557-1586. doi: 10.1111/j.1467-6494.2006.00420.x
+
+Ryan, R. M., & Deci, E. L. (2000). The darker and brighter sides of human existence: Basic psychological needs as a unifying concept. Psychological Inquiry, 11, 319-338.
+
+Sheldon, K. (2011). Integrating behavioral-motive and experiential-requirement perspectives on psychological needs: a two process model. Psychological Review. 118(4):552-69. doi: 10.1037/a0024758.
+
+Sheldon, K. M., & Gunz, A. (2009). Psychological needs as basic motives, not just experiential requirements. Journal of Personality, 77, 1467-1492.
+
+Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle. Journal of Psychotherapy Integration, 23, 263–280. doi: 10.1037/a0032359
+
+Most articles from Deci, Ryan, and Sheldon on needs and Self-Determination Theory are available in full-text at: <http://selfdeterminationtheory.org/domains/theoretical-overviews-and-research-reviews-domain/>  
+Read More: http://guilfordjournals.com/doi/abs/10.1521/jscp.2010.29.1.95
+
+[Archived source](http://web.archive.org/web/20240612224930/https://na.weshareresearch.com/foundations/philosophy/)

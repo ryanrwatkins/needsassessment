@@ -1,0 +1,384 @@
+---
+title: "Resources"
+toc: true
+filters:
+  - scripts/catalog.lua
+format:
+  html:
+    css: assets/catalog.css
+    include-after-body:
+      text: '<script src="assets/catalog.js"></script>'
+---
+
+> Recovered historical content. Resources and references reflect the archived website.
+
+Browse the recovered bibliography by topic, author, resource type, or year. Years are the original bibliographic **publication years**, not archive capture dates. The catalog includes listing-only records when full reference details could not be retrieved.
+
+[Download the bibliography CSV](data/resources.csv){download="resources.csv"}
+
+<span id="section-search-books-articles-chapters"></span><span id="section-books"></span><span id="section-articles"></span>
+
+::: {#csv-catalog}
+:::
+
+## E-learnings {#section-e-learnings}
+
+### **Understanding Needs! A (FREE) Micro E-learning Course**
+
+You can now take the micro learning course “[Understanding Needs](http://gohighbrow.com/portfolio/understanding-needs/)” for absolutely FREE. This bite-sized learning course consist of 10 short lessons, one emailed to you each work day for two weeks. The lessons are quick, just 400 – 500 words each. Learn something new about needs and needs assessment by signing up for this micro learning course today.
+
+[Archived image](https://web.archive.org/web/20260101050202/https://na.weshareresearch.com/wp-content/uploads/2021/09/ladders-1024x385.png)
+
+### **Discovering Needs: An On-Demand E-learning Course**
+
+**Lecture One**  
+Activity 1.1: Take a few minutes to watch Lecture One – Part One.
+
+[1 1 DISCOVERING NEEDS Needs Assessment for Learning Designers](https://www.youtube.com/embed/ByJeFmzjigU?feature=oembed)
+
+Activity 1.2: Complete the Self-Reflection Activity described at the end of the first video  
+in this lecture.
+
+Activity 1.3: Complete watching Lecture One.
+
+[Watch lecture video](https://www.youtube.com/embed/2LGloo5UWRM)  
+Activity 1.4: Read the Case Study Background materials and complete Case Problem #1  
+in the [Case Study Companion](https://web.archive.org/web/20260101050202/https://na.weshareresearch.com/resources/e-learnings/NA-Case-Study-v1.pdf) for this course.
+
+**Lecture Two**  
+Activity 2.1: Take a few minutes to watch Lecture Two.
+
+[Watch lecture video](https://www.youtube.com/embed/QRXaET1BUTU)  
+Activity 2.2: Complete the Self-Reflection Activity described at the end of the first video  
+in this lecture.
+
+Activity 2.3: Complete watching Lecture Two.
+
+[2 2 DISCOVERING NEEDS Needs Assessment for Learning Designers](https://www.youtube.com/embed/-B_scDYIUgw?feature=oembed)
+
+Activity 2.4: Read the Case Study Background materials and complete Case Problem #2  
+in the Case-study download unavailable (broken link in original site). for this course.
+
+**Lecture Three**  
+Activity 3.1: Take a few minutes to watch Lecture Three.
+
+[3 1 DISCOVERING NEEDS Needs Assessment for Learning Designers](https://www.youtube.com/embed/sa1bNhc-S78?feature=oembed)
+
+Activity 3.2: Complete the Self-Reflection Activity described at the end of the first video  
+in this lecture.
+
+Activity 3.3: Complete watching Lecture Two.
+
+[3 2 DISCOVERING NEEDS Needs Assessment for Learning Designers](https://www.youtube.com/embed/lT7ewIWxgwk?feature=oembed)
+
+Activity 3.4: Read the Case Study Background materials and complete Case Problem #3  
+in the Case-study download unavailable (broken link in original site). for this course.
+
+**Self-Assessment**  
+Activity 4.1: Complete the [E-learning Course Quiz](https://goo.gl/forms/LwomeHsEfQ42Un5g1) to test your learning from the course.
+
+[Archived source](https://web.archive.org/web/20250322211528/https://na.weshareresearch.com/resources/e-learnings/)
+
+## Websites {#section-websites}
+
+**Below are links to needs assessment focused websites. If you have others that you would like for us to add, please Contact Us using the form above.**
+
+<https://www.erim.eur.nl/necessary-condition-analysis/> [necessary conditions analysis]
+
+<https://assessments.humanitarianresponse.info/> (Coordinated Assessments for Humanitarian Response)
+
+<https://coast.noaa.gov/needsassessment/#/>**(**NOAA self-paced overview course on needs assessment**)**
+
+**<http://comm.eval.org/needs_assessment/Home/>** (American Evaluation Association Needs Assessment Topical Interest Group)
+
+<https://www2.ed.gov/admins/lead/account/compneedsassessment.pdf>(Guide developed by the US Dept. of Education Office of Migrant Education)
+
+<http://www.nwlink.com/~donclark/hrd/isd/assessment.html>
+
+<http://www.nedc.nrcs.usda.gov/isd/isd1.html>
+
+[http://alumnus.caltech.edu/~rouda/T2\_NA.htm](http://alumnus.caltech.edu/~rouda/T2_NA.html)
+
+<http://www.unmillenniumproject.org/documents/mp_ccspaper_jan1704.pdf>  
+  
+<http://www.infouse.com/CSNAguide/GuideFinalPostRSA_Draft.pdf> [Developing a Model Comprehensive Statewide Needs Assessment — [alternative link](http://www.ccer.org/service/documents/VR_Needs_Assessment_Guide_final_2-28-10.pdf)]  
+  
+<http://ncrtm.org/mod/resource/view.php?id=1827> [webinar]
+
+<http://www.cals.uidaho.edu/edcomm/pdf/BUL/BUL0870.pdf> [Methods for Conducting Educational Needs Assessments report]
+
+<http://oneresponse.info/crosscutting/environment/publicdocuments/UNEP_PDNA_draft.pdf> [United Nations Environment Programme. (March 2008). *Environmental needs* *assessment in post-disaster situations. A practical guide for implementation.*]
+
+[http://www.undp.org/cpr/documents/prevention/integrate/Post\_Conflict\_Needs\_A  
+ssessment\_methodology.pdf](http://www.undp.org/cpr/documents/prevention/integrate/Post_Conflict_Needs_A) [United Nations Development Programme, World Bank, & United Nations Development Group. (August 2004). *Needs assessments in post-conflict situations.]*
+
+<https://www.gfdrr.org/post-disaster-needs-assessments> [a compilation of Post Disaster Needs Assessment reports supported by the Global Facility for Disaster Reduction and Recovery]
+
+<http://www.recoveryplatform.org/pdna/>
+
+[guidelines for conducting post disaster needs assessments, by sector]
+
+<https://www.acaps.org/search?search_query=needs+assessment>
+
+[a variety of reports from ACAPS, Assessment Capacities Project, on all aspects of humanitarian needs assessments]
+
+<http://siteresources.worldbank.org/ENRLP/Resources/460956-1163449042857/TNA_Report_20_05_06.pdf> [World Bank Institute, Infrastructure Professionals Enterprise, Ltd., & Center for Environmental Education. *Training needs assessment report. Solid Waste*  
+*management Learning program in India.]*
+
+[Assessing Community Needs and Resources](http://ctb.ku.edu/en/tablecontents/chapter_1003.aspx) [a number of tools and resources on a comprehensive site]
+
+[Archived source](https://web.archive.org/web/20250515122115/https://na.weshareresearch.com/resources/websites/)
+
+## Tools {#section-tools}
+
+**Below are links to needs assessment tools that you can use. If you have others that you would like for us to add, please Contact Us using the form to the left.**
+
+[More than 20 needs assessment tools for collection information and making decisions are now available for free as part of the Guide for Assessing Needs](resources.qmd#section-guide-to-assessing-needs) [published by the World Bank, available online for free]
+
+[Community Assessment Toolbox](https://wesharescience.com/na/CAT_Manual_Publication.pdf) [developed by [Soluciones Communitarias](http://www.solucionescomunitarias.com/)]
+
+[Needs Assessment Readiness Checklist](https://wesharescience.com/na/tools/3686_001.pdf) [developed by Doug Leigh]
+
+[Storytelling as Data Collection](http://www.globalgiving.org/storytelling/) [developed by GlobalGiving]
+
+[Knowledge Sharing Tools](http://www.kstoolkit.org/KSTools) [developed on the Sharing Knowledge Wiki]
+
+[Community Mapping](http://comm.eval.org/EVAL/Resources/ViewDocument/?DocumentKey=294d422c-957f-41f8-83be-60f30cca5a39) [presentation by The Improve Group at AEA 2011]
+
+[Group Priority Sort](http://cathexisconsulting.ca/interesting/media/Priority_Sort_presentation_CES2010.pdf) [presentation by Cathexis Consulting]
+
+[Community Participation in Budget Choices](https://budgettool.fcps.edu/) [Fairfax County Schools]
+
+[Facilitation Tools](http://chriscorrigan.com/parkinglot/?page_id=958) [comprehensive list of resources for facilitating group processes]
+
+[Logic Models Course](http://www.uwex.edu/ces/lmcourse/) [free online course through the Univ. of Wisconsin]
+
+[Logic Models Guide](http://www.wkkf.org/knowledge-center/resources/2006/02/WK-Kellogg-Foundation-Logic-Model-Development-Guide.aspx) [free book from the Kellogg Foundation]
+
+[Checklists Project](http://www.wmich.edu/evalctr/archive_checklists/checklistmenu.htm) [many checklists that can be applied during either evaluations or needs assessments]
+
+[Political Economy Analysis Frameworks](http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTGOVANTICORR/0,,contentMDK:22726311~menuPK:7458217~pagePK:210058~piPK:210062~theSitePK:3035864,00.html) [a number of books and resources developed by the World Bank on analyzing political economy]
+
+[Assessing Community Needs and Resources](http://ctb.ku.edu/en/tablecontents/chapter_1003.aspx) [a number of tools and resources on a comprehensive site]
+
+[Community Assessment for Public Health Emergency Response (CASPER) Toolkit](http://www.cdc.gov/nceh/hsb/disaster/casper.htm)[developed by the CDC]
+
+[The Joint Education Needs Assessments Toolkit](http://educationcluster.net/wp-content/uploads/2013/12/Ed_NA_Toolkit_Final.pdf). [[Global Education Cluster](http://educationcluster.net/)]
+
+[Archived source](https://web.archive.org/web/20240526084046/https://na.weshareresearch.com/resources/tools/)
+
+## Media (audio/video) {#section-media-audio-video}
+
+[Lessons Learned Videos](#minute-lessons-learned-videos) | [Research Conversations](#original-media-audio-video-conv) | [Conversations on HPT](#original-media-audio-video-hpt) | [Other Interviews](#original-media-audio-video-other) | [Bookclub Recordings](#original-media-audio-video-bookclub)
+
+### **2-Minute Lessons Learned Videos**
+
+> Capturing valuable knowledge based on “real world” experiences is central to improving  research and practice.  At the same time, it is rarely easy to find time for writing up the valuable lessons learned from projects.  The [2-Minute Lessons Learned Videos](http://www.ryanrwatkins.com/wordpress/lessonslearned) bridge this gap by providing an easily accessible (and searched) video library of lessons contributed by those who doing needs assessments, paired with a very simple tool for contributing your own lessons to the video library.  Let’s not let the valuable lessons from our experience be forgotten, visit the site today to learn from others and contribute what you know.
+
+<span id="original-media-audio-video-conv"></span>
+
+### **Research Conversations**
+
+> Finding the time to read the diverse research in fields of HPT, HRD, HRM, OD, Management, Personnel, and other related disciplines the inform your decisions is a rare luxury. Translating those research findings into practical applications is nevertheless the foundation of successful improvements in human and organizational performance.
+>
+> ***Sharing Science***
+>
+> After several years of summarizing research that can be useful in guiding organizational decisinos, we decided that in order to be sustainable (and even more inclusive) we wanted to allow researchers to post their own short videos describing their research and its applications.  You can see these at: [We Share Science](http://www.wesharescience.com/).
+>
+> ***Research Summaries***
+>
+> Summaries of the many research studies are posted in the [Related Research](https://wesharescience.com/na/research.html) section, and we have also conducted podcast interviews with couple of research authors to further explore how the research can be applied in organizations (a precursor to We Share Science). Below is a list of those  interviews.
+>
+> [Annette Towler](https://wesharescience.com/na/RIR/towler-research-in-review.mp3), author of Effects of trainer expressiveness, seductive details, and trainee goal orientation on training outcomes, published in Human Resource Development Quarterly.
+>
+> [Frank Nguyen](https://wesharescience.com/na/RIR/Frank%20Nguyen%20Research%20In%20Review.mp3), author of The Effect of Performance Support and Training as Performance Interventions, published in Performance Improvement Quarterly.
+
+<span id="original-media-audio-video-hpt"></span>
+
+### **Conversation on Human Performance Technology (HPT)**
+
+> With the help of John Wedman at the University of Missiouri, we have recorded more than twenty-five podcast interviews with professionals who work on needs assessments or related performance interventions. The interviews are free to download or link to. We have organized the podcasts around Wedman’s Performance Pyramid and each interview can be a valuable source for information for those interesting in analyzing or improving performance. The interviews are aligned with contributing chapters in the *[The Handbook of Improving Performance in the Workplace – Volume 2: Selecting and Implementing Performance Interventions](http://astore.amazon.com/needsassessment-20)* [see the [Books](https://wesharescience.com/na/books.html) section for more information].
+>
+> NOTE: These files are temporarily not available, please check back.
+>
+> Anne Marrelli on Data Collection [[Listen](http://needsassessment.org/conversations/marrelli_mar4_2009.mp3)]  
+> Roger Kaufman on Achieving Results [[Listen](http://needsassessment.org/conversations/kaufman_feb16_2009.mp3)]  
+> Miki Lane on Performance Aid [[Listen](http://needsassessment.org/conversations/lane_feb11_2009.mp3)]  
+> Ryan Watkins and Doug Leigh on Performance Systems [[Listen](http://needsassessment.org/conversations/watkins-leigh_jan26_2009.mp3)]  
+> Patti Phillips on Return-on-Investment [[Listen](http://needsassessment.org/conversations/phillips_nov6_2008.mp3)]  
+> David Gliddon on Performance Management Systems [[Listen](http://needsassessment.org/conversations/gliddon_oct15_2008.mp3)]  
+> Jessica Frumkin on Rewards and Incentives [[Listen](http://needsassessment.org/conversations/frumkin_oct15_2008.mp3)]  
+> Gene Kutcher on 360 Feedback [[Listen](http://needsassessment.org/conversations/kutcher_oct15_2008.mp3)]  
+> James Altschauld on Needs Assessment Processes [[Listen](http://needsassessment.org/conversations/altschuld_oct8_2008.mp3)]  
+> Marvin Faure on Appreciative Inquiry [[Listen](http://needsassessment.org/conversations/faure_sep24_2008.mp3)]  
+> Frank Nguyen Electronic Performance Support [[Listen](http://needsassessment.org/conversations/nguyen_sep30_2008.mp3)]  
+> Hillary Leigh on Succession Planning and Management [[Listen](http://needsassessment.org/conversations/leigh_oct1_2008.mp3)]  
+> Judy Hale on Outsourcing [[Listen](http://needsassessment.org/conversations/hale_oct8_2008.mp3)]  
+> Bea Griffith-Cooper and Karyl King on Change [[Listen](http://needsassessment.org/conversations/cooper-king_oct8_2008.mp3)]  
+> Michelle French on Job Crafting [[Listen](http://needsassessment.org/conversations/french_oct8_2008.mp3)]  
+> Christi Hegstad on Mentoring [[Listen](http://needsassessment.org/conversations/hegstad_oct7_2008.mp3)]  
+> Ingrid Guerra-Lopez on Performance Measurement [[Listen](http://needsassessment.org/conversations/guerra_oct7_2008.mp3)]  
+> Scott Schaffer on Team Learning [[Listen](http://needsassessment.org/conversations/schaffer_oct1_2008.mp3)]  
+> Steven Condly on Incentive Systems [[Listen](http://needsassessment.org/conversations/condly_oct_1_2008.mp3)]  
+> Jim Breaugh on Realistic Job Previews [[Listen](http://needsassessment.org/conversations/breaugh_sep23_2008.mp3)]  
+> Tyrone Holmes on Diversity in the Workplace [[Listen](http://needsassessment.org/conversations/holmes_sep17_2008.mp3)]  
+> Marvin Weisbord and Sandra Janoff on the Future Search [[Listen](http://needsassessment.org/conversations/janoff-weisbord_sep18_2008.mp3)]  
+> Dan White on Leadership Coaching [[Listen](http://needsassessment.org/conversations/white_sep17_2008.mp3)]  
+> Tony Marker on Organizational Culture [[Listen](http://needsassessment.org/conversations/marker_sep16_2008.mp3)]  
+> Andrea Ellinger on Managerial Coaching [[Listen](http://needsassessment.org/conversations/ellinger_sep16_2008.mp3)]
+>
+> Links to the interviews and the chapter abstracts are available at [Conversations On HPT](http://hpt.missouri.edu/archive.php).  
+> Additional resources are also available on the [Performance s Pyramid Website](http://hpt.missouri.edu/).
+
+<span id="original-media-audio-video-other"></span>
+
+### **Other Interviews**
+
+Interview with Ryan Watkins on [Needs Assessments on the Everyday Evaluation podcast](https://everydayevaluation.libsyn.com/website/ep-4-ryan-watkins-assessing-needs-and-big-data)  
+[Interview with Ryan Watkins on Performance Improvement](https://pursuingperformanceblog.blogspot.com/2010/04/hpt-practitioner-podcast-2010-ryan.html) (conducted by Guy Wallace)
+
+[Interview with Doug Leigh on Performance Improvement](https://pursuingperformanceblog.blogspot.com/2010/04/hpt-practitioner-podcast-2010-doug.html) (conducted by Guy Wallace)  
+[HR.com Webinar with Doug Leigh](https://wesharescience.com/na/videos/leighwebinar.swf)
+
+Interviews with Roger Kaufman
+
+> Video Interview Part 1: [http://www.youtube.com/watch?v=td5PAaJQgw0](https://www.youtube.com/watch?v=td5PAaJQgw0)Video Interview Part 2: [http://www.youtube.com/watch?v=YDoKeRAWHT4](https://www.youtube.com/watch?v=YDoKeRAWHT4)  
+> Interview as part of the ASTD “[Voices](http://www.astd.org/content/publications/ASTDPress/voices.htm)” project: [Roger Kaufman](https://wesharescience.com/na/videos/Roger%20Kaufman_1_6_10.mp3)  
+> Just for fun: [A Kaufman Story](https://wesharescience.com/na/videos/Gasparilla%20Miracle.mp4?Gasparilla_Miracle_128)
+
+Video of Geary Rummler presenting on needs analysis (circa 1986): [http://www.youtube.com/watch?feature=player\_embedded&v=0DZ2hqAkMng](https://www.youtube.com/watch?feature=player_embedded&v=0DZ2hqAkMng)  
+Blast from the past – Skinner on Teaching Machines: [Part 1](https://wesharescience.com/na/videos/Teaching%20Machines%20Part%201.wmv), [Part 2](https://wesharescience.com/na/videos/Teaching%20Machines%20Part%202.wmv)
+
+<span id="original-media-audio-video-bookclub"></span>
+
+### **Podcasts of Bookclub Discussions**
+
+Unfortunately, we due to dropping participation we had to end the bookclub in 2018. If anyone would like to start another, please contact us.
+
+February 1, 2018 – [Barking Up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong](https://wesharescience.com/na/bookclub/hptbookclub2118.mp3) by Eric Barker
+
+August 15, 2017 – [Resilience: Why Things Bounce Back](https://wesharescience.com/na/bookclub/hptbookclub81517.mp3) by Andrew Zolli  
+May 8, 2017 – [Informal Learning](https://wesharescience.com/na/bookclub/hptbookclub5817.mp3) by Jay Cross  
+February 8, 2017 – [A Field Guide to Lies: Critical Thinking in the Information Age](https://wesharescience.com/na/bookclub/hptbookclub2817.mp3) by Daniel Levitin  
+December 15, 2016 – [The Seventh Sense](https://wesharescience.com/na/bookclub/HPTbookclub121516.mp3) by Joshua Cooper Ramo  
+July 22, 2016 – [The Purpose Economy](https://wesharescience.com/na/bookclub/HPTbookclub72216.mp3) by Aaron Hurst  
+August 3, 2015 – [Don’t Make Me Think, Revisited](https://wesharescience.com/na/bookclub/HPTbookclub8315.mp3) by Steve Krug  
+May 5, 2015 – [The Power of Habit](https://wesharescience.com/na/bookclub/HPTbookclub5515.mp3) by Charles Duhigg  
+February 3, 2015 – [Lean Human Performance Improvement](https://wesharescience.com/na/bookclub/HPTbookclub2315.mp3) by Jerry Harbour  
+November 13, 2014 – [How the Poor Can Save Capitalism](https://wesharescience.com/na/bookclub/HPTbookclub111314.mp3) by John Hope Bryant  
+August 5, 2014 – [Predictably Irrational](https://wesharescience.com/na/bookclub/HPTbookclub8514.mp3)by Dan Ariely  
+May 7, 2014 – [Myth of Innovation](https://wesharescience.com/na/bookclub/HPTbookclub5714.mp3) by Scott Burkun  
+February 4, 2014 – [Design Thinking](https://wesharescience.com/na/bookclub/HPTbookclub2414.mp3) by Nigel Cross ([Design Model](https://wesharescience.com/na/DesignModel.png) graphic by Lynn Kearny)  
+November 4, 2013 – [The Back of the Napkin](https://wesharescience.com/na/bookclub/hptbookclub81213.mp3) by Dan Roam  
+August 13, 2013 — [The Wisdom of Crowds](https://wesharescience.com/na/bookclub/hptbookclub81213.mp3) by James Surowiecki  
+May 3, 2013 — [Think, Fast and Slow](https://wesharescience.com/na/bookclub/hptbookclub5313.mp3) by Daniel Kahneman  
+February 8, 2013 — [Analysis for Improving Performance](https://wesharescience.com/na/bookclub/hptbookclub2813.mp3) by Richard Swanson  
+November 2, 2012 – [Cognitive Load Theory](https://wesharescience.com/na/bookclub/hptbookclub11212.mp3) by Jan Plass  
+August 3, 2012 – [Bringing Out the Best in People](https://wesharescience.com/na/bookclub/bookclub8312.mp3) by Aubrey Daniels.  
+May 4, 2012 – [Chasing Stars](https://wesharescience.com/na/bookclub/bookclub5-4-12.mp3) by Boris Groysberg.  
+February 3, 2012 – [The Checklist Manifesto](https://wesharescience.com/na/bookclub/bookclub2-3-12.mp3) by Atul Gawande.
+
+October 28, 2011 – [Hard Facts, Dangerous Half-truths, and Total Nonsense](https://wesharescience.com/na/bookclub/bookclub10-28-11.mp3) by Pfeffer and Sutton.
+
+August 4, 2011 – [Delusions of Gender](https://wesharescience.com/na/bookclub/bookclub8-4-11.mp3)by Cordelia Fine (Bonus: [NPR interview with the author](http://onpoint.wbur.org/2011/01/13/gender-brain-new))
+
+March 28, 2011 – [Human Competence](https://wesharescience.com/na/bookclub/bookclub4-28-11.mp3) by Thomas Gilbert
+
+January 26, 2011 –[Turning Research into Results](https://wesharescience.com/na/bookclub/bookclub1-26-11.mp3) by Richard Clark and Fred Estes  
+November 4, 2010 – [Shopclass as Soul Craft](https://wesharescience.com/na/bookclub/bookclub11-4-10.mp3) by Matthew Crawford  
+August 5, 2010 – [The ROI of Human Capital](https://wesharescience.com/na/bookclub/bookclub8-5-10.mp3) by Jac Fitz-enz  
+April 30, 2010 – [Structured On the Job Training](https://wesharescience.com/na/bookclub/bookclub4-30-10.mp3) by Ron Jacobs  
+February 2, 2010 – Building Expertise by Ruth Clark (sorry, no recording available)
+
+[Archived source](https://web.archive.org/web/20250624202033/https://na.weshareresearch.com/resources/media-audio-video/)
+
+## Non-English {#section-non-english}
+
+Below is a list of non-English resources on the topic of Needs Assessment. If you have others that you would like for us to add, please Contact Us using the form to the left.
+
+### **Chinese**
+
+Needs Assessment for Organizational Success by Roger Kaufman and Ingrid Guerra-Lopez ([translated in Chinese](https://www.amazon.cn/3/dp/B00MB50K5M/ref=sr_1_1?ie=UTF8&qid=1470108425&sr=8-1&keywords=ingrid+guerra-lopez))
+
+Presentation slides from a World Bank and Ministry Finance workshop on [needs and needs assessment](https://wesharescience.com/na/CN-Watkins-2016.zip)(2016).
+
+Presentation slides from a World Bank and Ministry Finance workshop series on [needs assessment and training evaluation](https://wesharescience.com/na/China%202009%20PPT.zip) in Shanghai and Chongqing, China (2009). This is a Zip file with presentation materials from each of the four days (in Chinese).
+
+[Article on Human Performance Technology (HPT)](assets/90981c7a93bd120d.pdf), including interview questions with Roger Kaufman on needs assessment and strategic thinking.
+
+### **German**
+
+Kaufman, R. (2001). Strategische Planung und Visions ­ Entwicklung. In Wittkuhn, K. D. & Bartscher, T. Improving Performance: Leistungspotenziale In Organisationen Entfalten. Nuewied ­ Kriftel (Taunus). Germany. Hermann Luchterhand Verlag GMBH.
+
+Kaufman, R. (2001). Bedarfserhebung. In Wittkuhn, K. D. & Bartscher, T. Improving Performance: Leistungspotenziale In Organisationen Entfalten. Nuewied ­ Kriftel (Taunus). Germany. Hermann Luchterhand Verlag GMBH.
+
+Watkins, R. and Leigh, D. (2001). Performance Improvement: Mehr als nur die Verbesserung des Hier und Jetzt. In Wittkuhn, K. and Bartscher, T. (Ed.). Improving Performance: Leistungspotenziale in organizationen entfalten. Germany: Luchterhand.
+
+### **Spanish**
+
+Kaufman, R. (2000). [El pensamiento estrategico](https://www.elcorteingles.es/tiendas_e/cda/cera/producto/0,5553,8480043660,FF.html) [translation of Strategic Thinking]. Madrid: Centro De Estudios Roman Areces, S.A.
+
+Kaufman, R. (2004). Planificación Mega: Herramientas practicas paral el exito organizacional. [translation of Mega Planning]. Traducción de Sonia Agut. Universitat Jaume I, Castelló de la Plana, Espana.
+
+Kaufman, R. & Campos, A. (1991: July). Tipos de Planeamiento Estrategico. Revista de Educacion. Universidad Feminina del Sagrado Corazon (Peru), II (1).
+
+Kaufman, R. (1973). Planificacion de systemas educativos [translation of Educational System Planning].  Mexico City: Editorial Trillas, S.A.
+
+<http://www.pignc-ispi.com/> [a mix of English and Spanish resources]
+
+[Archived source](https://web.archive.org/web/20250426234218/https://na.weshareresearch.com/resources/non-english/)
+
+## Guide to Assessing Needs {#section-guide-to-assessing-needs}
+
+***Description of the book**:*
+
+The earliest decisions that lead to development projects are among the most critical in determining long-term success. This phase of project development transforms exciting ideas into project proposals, setting the stage for a variety of actions that will eventually lead (if all goes well) to desirable results. From deciding to propose a sanitation project in South Asia to selecting approaches that strengthen school management in South America, these decisions are the starting place of development. This book is your guide to having assessing needs and then making essential decisions about what to do next.
+
+Needs assessments support this early phase of project development with proven approaches for gathering information and making justifiable decisions. Filled with practical strategies, tools, and guides, you will find that this book covers both large-scale formal needs assessments, as well as less-formal assessments that guide daily decisions. Included in the book is a blend of rigorous methods and realistic tools that can help you make informed and reasoned decisions. Use the tools featured in the book to conduct focus groups, develop surveys, prioritize needs, and lead group decision-making; developing a comprehensive, yet realistic, approach to identifying needs and selecting among alternative ways forward.  
+  
+**Individual Chapter and Tools:**
+
+[Entire book through World Bank Knowledge Repository](https://openknowledge.worldbank.org/handle/10986/2231)
+
+[Section 1. Needs Assessment: Frequently Asked Questions](assets/a52521e867556aea.pdf)
+
+[Section 2. Needs Assessment: Steps to Success](assets/d3cfc23a973cfd2f.pdf)
+
+Section 3. Needs Assessment: Tools and Techniques
+
+> [Part 3A. Data Collection Tools and Techniques](assets/3e59e70e67fb06ae.pdf)(all tools)  
+> [Document or Data Review](assets/24d5181ff599d47f.pdf)  
+> [Guided Expert Reviews](assets/718fb8cc036eda18.pdf)  
+> [Management of Focus Groups](assets/4d9b5fc4516300ff.pdf)  
+> [Interviews](assets/8668b89fafe54c99.pdf)  
+> [Dual-Response Surveys](https://web.archive.org/web/20260101050202/https://na.weshareresearch.com/wp-content/uploads/2022/03/Dual response-surveys.pdf)  
+> [SWOT+](https://web.archive.org/web/20260101050202/https://na.weshareresearch.com/wp-content/uploads/2022/03/SWOT+.pdf)  
+> [World Café™ (with “Speed Dating” Variation)](assets/3a947a993fbcf769.pdf)  
+> [Delphi Technique](assets/98524332ea6b8569.pdf)  
+> [Performance Observations](assets/64320d14c2881167.pdf)  
+> [Task Analysis (Hierarchical or Sequential, If-Then, and Model-Based)](assets/42e4e00fab5915f3.pdf)  
+> [Cognitive Task Analysis](assets/da16f227849ae866.pdf)
+>
+> [Part 3B. Decision-Making Tools and Techniques](assets/3784ddc843abe8cd.pdf) (all tools)  
+> [Nominal Group Technique](assets/44946fa3274755a7.pdf)  
+> [Multicriteria Analysis](assets/c9d9d86c5469fba6.pdf)  
+> [Tabletop Analysis](assets/3ccf753282d144a2.pdf)  
+> [Pair-Wise Comparison](assets/b72f9c076fc5705b.pdf)  
+> [2 × 2 Matrix Decision Aids](assets/ad1e59f7425289c2.pdf)  
+> [Fishbone Diagrams](assets/85e59e9cca64fcec.pdf)  
+> [Scenarios](assets/2973090af31973a8.pdf)  
+> [Root Cause Analysis](assets/2ba2f3e566fbcfad.pdf)  
+> [Fault Tree Analysis](assets/1997f492bb702f9f.pdf)  
+> [Concept Mapping](assets/4cf76eeb46cdd70b.pdf)  
+> [Future Wheel](assets/088db813fa1f59f9.pdf)  
+> [Performance Pyramid](assets/14eef652a242dedb.pdf)
+
+Appendix A. Management and Implementation Guides and Checklists  
+[A.1. Implementation Plan for a Needs Assessment](assets/b66b9b5435036f01.pdf)  
+[A.2. Detailed Checklist for Needs Assessment Management Activities](assets/018c8d264fe73b3c.pdf)  
+[A.3. A Six-Week Needs Assessment Implementation Guide](assets/9ecaa53e38de8a0c.pdf)  
+[A.4. Tools and Techniques to Consider](assets/6aaf9edeca3be003.pdf)  
+[A.5. Guide to Selecting Tools and Techniques (Applied MulticriteriaAnalysis)](assets/c3d56281dab6c017.pdf)  
+[A.6. Three-Phase Needs Assessment Process with AdditionalDetails](assets/e3620c7e0b651e33.pdf)
+
+[Archived source](https://web.archive.org/web/20240612221754/https://na.weshareresearch.com/guide-to-assessing-needs/)
