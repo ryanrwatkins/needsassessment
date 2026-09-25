@@ -1,9 +1,0 @@
----
-title: "Expert Chat"
----
-
-> Recovered historical content. Resources and references reflect the archived website.
-
-The original site linked to an externally hosted needs-assessment chatbot. [Open Expert Chat](https://ryanrwatkins-needs.hf.space). Its availability depends on that external service. 
-
-[Archived source](http://web.archive.org/web/20240714215034/https://na.weshareresearch.com/expert-chat/)

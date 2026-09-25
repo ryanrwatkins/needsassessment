@@ -9,8 +9,6 @@ title: "Foundations"
 - [Philosophical Perspectives on Needs](foundations.qmd#section-philosophy)
 - [Theories](foundations.qmd#section-theories)
 
-[Archived source](http://web.archive.org/web/20240612214037/https://na.weshareresearch.com/foundations/)
-
 ## Theories {#section-theories}
 
 “A good theory is one that holds together long enough to get you to a better theory”.[1](https://wesharescience.com/na/natheories.html#_ftn1)
@@ -70,8 +68,6 @@ Applicable Principles: (i) Needs assessments are substantially different from ev
 Basics: <http://home.gwu.edu/~rwatkins/articles/howdoyou.pdf>
 
 Donald Hebb as quoted in Mintzberg: <http://www.mintzberg.org/pdf/devtheory.pdf>
-
-[Archived source](http://web.archive.org/web/20240416130021/https://na.weshareresearch.com/foundations/theories/)
 
 ## Models {#section-models}
 
@@ -208,8 +204,6 @@ The Three-Phase Model proposed by Witkin & Altschuld is actually an analysis, as
 **Zemke and Kramlinger’s Figuring Things Out Model**Zemke, R. and Kramlinger, T. (1985). Figuring Things Out: A trainers guide to needs and task analysis. Reading, MA: Addison-Wesley.
 
 The Zemke and Kramlinger’s Figuring Things Out (FTO) model is composed of factors that affect performance in an organization.  The factors are detailed in three primary arenas: performer, local performance environment, and organizational climate.  The authors suggest that an FTO study begins by capturing the organizational climate and culture data, including how the mission and goals of the organization are translated into actions at the functional/operational levels.  Though from this point on, the FTO model mirrors many conventional task analyses.  Comparable to Rossett’s Training Needs Assessment, Zemke and Kramlinger devote most of their effort to providing tools and guides for collecting both hard and soft data within an organization. The FTO model, like many of the needs assessment models examined in this digest, infers that the results achieved by the performer will be beneficial to internal and external clients as well as society.
-
-[Archived source](http://web.archive.org/web/20250427001927/https://na.weshareresearch.com/foundations/models/)
 
 ## History {#section-history}
 
@@ -464,8 +458,6 @@ Altschuld, J.W. (2014) Bridging the Gap between Asset/Capacity Building and Need
 
 Altschuld, J.W. and Watkins, R. EdS (2014). [Special Issue: Needs Assessment: Trends and a View Toward the Future](http://onlinelibrary.wiley.com/doi/10.1002/ev.2014.2014.issue-144/issuetoc). New Directions in Evaluation (an Amer. Eval. Assoc. publication).  This special issue of the journal includes eight original articles on needs assessment.
 
-[Archived source](http://web.archive.org/web/20251231135718/https://na.weshareresearch.com/foundations/history/)
-
 ## Philosophy {#section-philosophy}
 
 How we fundamentally view “needs” is a critical foundation for how they influence our decisions and guide our assessments.  The following resources offer a glimpse into the research and conversations on the topic within a variety of disciplines.  
@@ -624,5 +616,3 @@ Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerabili
 
 Most articles from Deci, Ryan, and Sheldon on needs and Self-Determination Theory are available in full-text at: <http://selfdeterminationtheory.org/domains/theoretical-overviews-and-research-reviews-domain/>  
 Read More: http://guilfordjournals.com/doi/abs/10.1521/jscp.2010.29.1.95
-
-[Archived source](http://web.archive.org/web/20240612224930/https://na.weshareresearch.com/foundations/philosophy/)

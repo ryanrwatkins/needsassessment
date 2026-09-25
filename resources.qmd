@@ -77,8 +77,6 @@ in the Case-study download unavailable (broken link in original site). for thi
 **Self-Assessment**  
 Activity 4.1: Complete the [E-learning Course Quiz](https://goo.gl/forms/LwomeHsEfQ42Un5g1) to test your learning from the course.
 
-[Archived source](https://web.archive.org/web/20250322211528/https://na.weshareresearch.com/resources/e-learnings/)
-
 ## Websites {#section-websites}
 
 **Below are links to needs assessment focused websites. If you have others that you would like for us to add, please Contact Us using the form above.**
@@ -127,13 +125,11 @@ ssessment\_methodology.pdf](http://www.undp.org/cpr/documents/prevention/integra
 
 [Assessing Community Needs and Resources](http://ctb.ku.edu/en/tablecontents/chapter_1003.aspx) [a number of tools and resources on a comprehensive site]
 
-[Archived source](https://web.archive.org/web/20250515122115/https://na.weshareresearch.com/resources/websites/)
-
 ## Tools {#section-tools}
 
 **Below are links to needs assessment tools that you can use. If you have others that you would like for us to add, please Contact Us using the form to the left.**
 
-[More than 20 needs assessment tools for collection information and making decisions are now available for free as part of the Guide for Assessing Needs](resources.qmd#section-guide-to-assessing-needs) [published by the World Bank, available online for free]
+[More than 20 needs assessment tools for collecting information and making decisions are available free in the Guide for Assessing Needs](guide.qmd), published by the World Bank.
 
 [Community Assessment Toolbox](https://wesharescience.com/na/CAT_Manual_Publication.pdf) [developed by [Soluciones Communitarias](http://www.solucionescomunitarias.com/)]
 
@@ -164,8 +160,6 @@ ssessment\_methodology.pdf](http://www.undp.org/cpr/documents/prevention/integra
 [Community Assessment for Public Health Emergency Response (CASPER) Toolkit](http://www.cdc.gov/nceh/hsb/disaster/casper.htm)[developed by the CDC]
 
 [The Joint Education Needs Assessments Toolkit](http://educationcluster.net/wp-content/uploads/2013/12/Ed_NA_Toolkit_Final.pdf). [[Global Education Cluster](http://educationcluster.net/)]
-
-[Archived source](https://web.archive.org/web/20240526084046/https://na.weshareresearch.com/resources/tools/)
 
 ## Media (audio/video) {#section-media-audio-video}
 
@@ -290,8 +284,6 @@ August 5, 2010 – [The ROI of Human Capital](https://wesharescience.com/na/boo
 April 30, 2010 – [Structured On the Job Training](https://wesharescience.com/na/bookclub/bookclub4-30-10.mp3) by Ron Jacobs  
 February 2, 2010 – Building Expertise by Ruth Clark (sorry, no recording available)
 
-[Archived source](https://web.archive.org/web/20250624202033/https://na.weshareresearch.com/resources/media-audio-video/)
-
 ## Non-English {#section-non-english}
 
 Below is a list of non-English resources on the topic of Needs Assessment. If you have others that you would like for us to add, please Contact Us using the form to the left.
@@ -325,60 +317,3 @@ Kaufman, R. & Campos, A. (1991: July). Tipos de Planeamiento Estrategico. Revist
 Kaufman, R. (1973). Planificacion de systemas educativos [translation of Educational System Planning].  Mexico City: Editorial Trillas, S.A.
 
 <http://www.pignc-ispi.com/> [a mix of English and Spanish resources]
-
-[Archived source](https://web.archive.org/web/20250426234218/https://na.weshareresearch.com/resources/non-english/)
-
-## Guide to Assessing Needs {#section-guide-to-assessing-needs}
-
-***Description of the book**:*
-
-The earliest decisions that lead to development projects are among the most critical in determining long-term success. This phase of project development transforms exciting ideas into project proposals, setting the stage for a variety of actions that will eventually lead (if all goes well) to desirable results. From deciding to propose a sanitation project in South Asia to selecting approaches that strengthen school management in South America, these decisions are the starting place of development. This book is your guide to having assessing needs and then making essential decisions about what to do next.
-
-Needs assessments support this early phase of project development with proven approaches for gathering information and making justifiable decisions. Filled with practical strategies, tools, and guides, you will find that this book covers both large-scale formal needs assessments, as well as less-formal assessments that guide daily decisions. Included in the book is a blend of rigorous methods and realistic tools that can help you make informed and reasoned decisions. Use the tools featured in the book to conduct focus groups, develop surveys, prioritize needs, and lead group decision-making; developing a comprehensive, yet realistic, approach to identifying needs and selecting among alternative ways forward.  
-  
-**Individual Chapter and Tools:**
-
-[Entire book through World Bank Knowledge Repository](https://openknowledge.worldbank.org/handle/10986/2231)
-
-[Section 1. Needs Assessment: Frequently Asked Questions](assets/a52521e867556aea.pdf)
-
-[Section 2. Needs Assessment: Steps to Success](assets/d3cfc23a973cfd2f.pdf)
-
-Section 3. Needs Assessment: Tools and Techniques
-
-> [Part 3A. Data Collection Tools and Techniques](assets/3e59e70e67fb06ae.pdf)(all tools)  
-> [Document or Data Review](assets/24d5181ff599d47f.pdf)  
-> [Guided Expert Reviews](assets/718fb8cc036eda18.pdf)  
-> [Management of Focus Groups](assets/4d9b5fc4516300ff.pdf)  
-> [Interviews](assets/8668b89fafe54c99.pdf)  
-> [Dual-Response Surveys](https://web.archive.org/web/20260101050202/https://na.weshareresearch.com/wp-content/uploads/2022/03/Dual response-surveys.pdf)  
-> [SWOT+](https://web.archive.org/web/20260101050202/https://na.weshareresearch.com/wp-content/uploads/2022/03/SWOT+.pdf)  
-> [World Café™ (with “Speed Dating” Variation)](assets/3a947a993fbcf769.pdf)  
-> [Delphi Technique](assets/98524332ea6b8569.pdf)  
-> [Performance Observations](assets/64320d14c2881167.pdf)  
-> [Task Analysis (Hierarchical or Sequential, If-Then, and Model-Based)](assets/42e4e00fab5915f3.pdf)  
-> [Cognitive Task Analysis](assets/da16f227849ae866.pdf)
->
-> [Part 3B. Decision-Making Tools and Techniques](assets/3784ddc843abe8cd.pdf) (all tools)  
-> [Nominal Group Technique](assets/44946fa3274755a7.pdf)  
-> [Multicriteria Analysis](assets/c9d9d86c5469fba6.pdf)  
-> [Tabletop Analysis](assets/3ccf753282d144a2.pdf)  
-> [Pair-Wise Comparison](assets/b72f9c076fc5705b.pdf)  
-> [2 × 2 Matrix Decision Aids](assets/ad1e59f7425289c2.pdf)  
-> [Fishbone Diagrams](assets/85e59e9cca64fcec.pdf)  
-> [Scenarios](assets/2973090af31973a8.pdf)  
-> [Root Cause Analysis](assets/2ba2f3e566fbcfad.pdf)  
-> [Fault Tree Analysis](assets/1997f492bb702f9f.pdf)  
-> [Concept Mapping](assets/4cf76eeb46cdd70b.pdf)  
-> [Future Wheel](assets/088db813fa1f59f9.pdf)  
-> [Performance Pyramid](assets/14eef652a242dedb.pdf)
-
-Appendix A. Management and Implementation Guides and Checklists  
-[A.1. Implementation Plan for a Needs Assessment](assets/b66b9b5435036f01.pdf)  
-[A.2. Detailed Checklist for Needs Assessment Management Activities](assets/018c8d264fe73b3c.pdf)  
-[A.3. A Six-Week Needs Assessment Implementation Guide](assets/9ecaa53e38de8a0c.pdf)  
-[A.4. Tools and Techniques to Consider](assets/6aaf9edeca3be003.pdf)  
-[A.5. Guide to Selecting Tools and Techniques (Applied MulticriteriaAnalysis)](assets/c3d56281dab6c017.pdf)  
-[A.6. Three-Phase Needs Assessment Process with AdditionalDetails](assets/e3620c7e0b651e33.pdf)
-
-[Archived source](https://web.archive.org/web/20240612221754/https://na.weshareresearch.com/guide-to-assessing-needs/)

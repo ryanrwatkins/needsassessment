@@ -82,7 +82,7 @@ def select_control(rows: list[dict[str, str]], field: str, label: str) -> str:
 
 
 def render_row(row: dict[str, str]) -> str:
-    """Escape source text and attributes, keeping descriptions in searchable HTML."""
+    """Escape catalog text and attributes, keeping descriptions searchable."""
     escaped = {key: html.escape(value, quote=True) for key, value in row.items()}
     attributes = " ".join(
         f'data-{field.replace("_", "-")}="{html.escape(json.dumps(values(row[field])))}"'
@@ -92,15 +92,11 @@ def render_row(row: dict[str, str]) -> str:
     if row["url"]:
         title = f'<a href="{escaped["url"]}">{title}</a>'
     recorded = escaped["year"] if row["year"] else "Not available"
-    sources = " ".join(
-        f'<a href="{html.escape(url, quote=True)}">Archived source {i}</a>'
-        for i, url in enumerate(values(row["source_urls"]), 1)
-    )
     return f"""<tr class="resource-row" id="{escaped["id"]}" {attributes}
  data-title="{escaped["title"]}" data-date="{escaped["year"]}">
 <td><strong>{title}</strong>
-<details><summary>Description and source</summary><p>{escaped["description"] or "No description recorded."}</p>
-<p>{html.escape(" · ".join(row[f] for f in ["journal", "publisher", "volume", "issue", "pages", "doi"] if row[f]))}</p><p>Reference recovery: {escaped["record_status"]}</p><p>{sources}</p></details></td>
+<details><summary>Details</summary><p>{escaped["description"] or "No description recorded."}</p>
+<p>{html.escape(" · ".join(row[f] for f in ["journal", "publisher", "volume", "issue", "pages", "doi"] if row[f]))}</p><p>Reference recovery: {escaped["record_status"]}</p></details></td>
 <td>{escaped["author"] or "Not available"}</td>
 <td>{escaped["resource_type"] or "Not available"}</td>
 <td>{recorded}</td></tr>"""

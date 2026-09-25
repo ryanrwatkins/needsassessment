@@ -8,8 +8,8 @@ https://ryanrwatkins.github.io/needsassessment/.
 
 ## What is here
 
-- Six readable Quarto pages built from the original navigation: Home, Overview,
-  Foundations, Resources, Connect, and Expert Chat.
+- Six readable Quarto pages: Home, Overview, Foundations, Resources, Guide,
+  and FAQ.
 - A CSV-backed bibliography of recovered books, articles, and chapters. The
   Resources page supports topic, text, type, language, and publication-year
   filtering without a separate database.
