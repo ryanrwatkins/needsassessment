@@ -5,6 +5,7 @@ project:
   post-render: python3 scripts/build_catalog.py --index
   resources:
     - data/resources.csv
+    - guide-files
   render:
     - "*.qmd"
 website:
@@ -21,12 +22,13 @@ website:
         text: "Foundations"
       - href: resources.qmd
         text: "Resources"
-      - href: connect.qmd
-        text: "Connect"
-      - href: expert-chat.qmd
-        text: "Expert Chat"
+      - href: guide.qmd
+        text: "Guide"
+      - href: faq.qmd
+        text: "FAQ"
 format:
   html:
     theme: cosmo
+    css: assets/site.css
     toc: true
     link-external-newwindow: true

@@ -7,9 +7,10 @@ project owner (`2026-01-01 05:02:02 UTC`) and, where that capture did not
 return a resource, from the Archive's closest available historical captures.
 The original WordPress database was not available.
 
-The recovered public build includes all pages from the visible site navigation:
-Home, Overview, Foundations, Resources, Connect, and Expert Chat. The linked
-Guide to Assessing Needs was also recovered and included under Resources.
+The recovery collected all pages from the visible original navigation. The
+current public build focuses on Home, Overview, Foundations, Resources, Guide,
+and FAQ; Connect and Expert Chat were intentionally removed from public
+navigation. The recovered Guide to Assessing Needs now has its own page.
 
 ## Results
 

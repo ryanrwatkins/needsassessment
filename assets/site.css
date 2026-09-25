@@ -1,0 +1,51 @@
+.faq-item {
+  border: 1px solid #d4ddd7;
+  border-radius: 0.4rem;
+  margin: 0 0 0.75rem;
+  padding: 0;
+}
+
+.faq-item summary {
+  cursor: pointer;
+  font-weight: 600;
+  padding: 0.85rem 1rem;
+}
+
+.faq-item > :not(summary) {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.faq-item[open] summary {
+  border-bottom: 1px solid #d4ddd7;
+  margin-bottom: 1rem;
+}
+
+.guide-hero {
+  align-items: center;
+  background: #edf6f0;
+  border-radius: 0.5rem;
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: minmax(150px, 250px) 1fr;
+  margin: 0 0 2rem;
+  padding: 1.5rem;
+}
+
+.guide-hero figure {
+  margin: 0;
+}
+
+.guide-hero img {
+  box-shadow: 0 0.35rem 1rem rgb(0 0 0 / 20%);
+}
+
+@media (max-width: 600px) {
+  .guide-hero {
+    grid-template-columns: 1fr;
+  }
+
+  .guide-hero figure {
+    max-width: 200px;
+  }
+}

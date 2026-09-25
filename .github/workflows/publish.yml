@@ -38,7 +38,7 @@ jobs:
       - name: Verify expected pages
         shell: bash
         run: |
-          for page in index overview foundations resources connect expert-chat; do
+          for page in index overview foundations resources guide faq; do
             test -s "_site/${page}.html"
           done
           test -d _site/assets
