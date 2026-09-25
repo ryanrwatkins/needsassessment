@@ -2,8 +2,6 @@
 title: "Overview"
 ---
 
-> Recovered historical content. Resources and references reflect the archived website.
-
 - [Essentials](overview.qmd#section-essentials)
 - [FAQ](faq.qmd)
 - [Introduction to Needs Assessment](overview.qmd#section-introduction-to-needs-assessment)

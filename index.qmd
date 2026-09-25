@@ -2,8 +2,6 @@
 title: "NeedsAssessment.org"
 ---
 
-> Recovered historical content. Resources and references reflect the archived website.
-
 Needs, or **gaps in results**, are the foundation of decisions in most professions and settings — from physicians in emergency rooms to managers in office buildings. Needs define the results we want to accomplish in relation to our current achievements, and we define them either formally or informally on a daily basis. The assessment of needs is therefore done in the pursuit of improving performance (or closing gaps in results) in a variety of contexts.
 
 Needs Assessments are used to identify strategic priorities, define results to be accomplished, guide decisions related to appropriate actions to be taken, establish evaluation criteria for making judgments of success, and inform the continual improvement of activities within organizations. Thus, from training to systems engineering,Needs Assessments play an active role in the accomplishment of individual, team, organizational, and even societal results.

@@ -2,8 +2,6 @@
 title: "Foundations"
 ---
 
-> Recovered historical content. Resources and references reflect the archived website.
-
 - [History](foundations.qmd#section-history)
 - [Models](foundations.qmd#section-models)
 - [Philosophical Perspectives on Needs](foundations.qmd#section-philosophy)
