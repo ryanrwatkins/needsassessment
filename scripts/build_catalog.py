@@ -90,10 +90,11 @@ def render_row(row: dict[str, str]) -> str:
     )
     title = escaped["title"]
     recorded = escaped["year"] if row["year"] else "Not available"
+    description = f"<p>{escaped['description']}</p>" if row["description"] else ""
     return f"""<tr class="resource-row" id="{escaped["id"]}" {attributes}
  data-title="{escaped["title"]}" data-date="{escaped["year"]}">
 <td><strong>{title}</strong>
-<details><summary>Details</summary><p>{escaped["description"] or "No description recorded."}</p>
+<details><summary>Details</summary>{description}
 <p>{html.escape(" · ".join(row[f] for f in ["journal", "publisher", "volume", "issue", "pages", "doi"] if row[f]))}</p><p>Reference recovery: {escaped["record_status"]}</p></details></td>
 <td>{escaped["author"] or "Not available"}</td>
 <td>{escaped["resource_type"] or "Not available"}</td>

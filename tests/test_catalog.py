@@ -25,6 +25,7 @@ def source(tmp_path: Path) -> Path:
             | {
                 "id": "one",
                 "title": 'A, "quoted" <title>',
+                "author": "Doe, J.; Roe, A.",
                 "description": "Two lines\nof text & detail.",
                 "url": "https://example.com/",
                 "topics": "Tutorials; Examples",
@@ -45,7 +46,22 @@ def test_main_preserves_csv_and_escapes_html(source: Path, tmp_path: Path) -> No
     assert html.count('class="resource-row"') == 1
     assert 'data-topic="Tutorials"' in html
     assert "Archived source" not in html
+    assert "Doe, J.; Roe, A." in html
     assert 'href="https://example.com/"' not in html
+
+
+def test_main_omits_empty_description(source: Path, tmp_path: Path) -> None:
+    rows = catalog.read_rows(source)
+    rows[0]["description"] = ""
+    with source.open("w", newline="", encoding="utf-8") as stream:
+        writer = csv.DictWriter(stream, fieldnames=catalog.FIELDS)
+        writer.writeheader()
+        writer.writerows(rows)
+
+    output = tmp_path / "include.html"
+    catalog.main(source, output)
+
+    assert "No description recorded." not in output.read_text()
 
 
 @pytest.mark.parametrize(
