@@ -89,8 +89,6 @@ def render_row(row: dict[str, str]) -> str:
         for field in ["topics", "resource_type", "language", "year"]
     )
     title = escaped["title"]
-    if row["url"]:
-        title = f'<a href="{escaped["url"]}">{title}</a>'
     recorded = escaped["year"] if row["year"] else "Not available"
     return f"""<tr class="resource-row" id="{escaped["id"]}" {attributes}
  data-title="{escaped["title"]}" data-date="{escaped["year"]}">

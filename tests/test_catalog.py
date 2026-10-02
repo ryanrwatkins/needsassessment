@@ -45,6 +45,7 @@ def test_main_preserves_csv_and_escapes_html(source: Path, tmp_path: Path) -> No
     assert html.count('class="resource-row"') == 1
     assert 'data-topic="Tutorials"' in html
     assert "Archived source" not in html
+    assert 'href="https://example.com/"' not in html
 
 
 @pytest.mark.parametrize(
