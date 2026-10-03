@@ -1,0 +1,20 @@
+---
+title: "Bibliography"
+toc: true
+filters:
+  - scripts/catalog.lua
+format:
+  html:
+    css: assets/catalog.css
+    include-after-body:
+      text: '<script src="assets/catalog.js"></script>'
+---
+
+Search the needs assessment bibliography by topic, author, resource type, or
+year. Years are original publication years. The catalog includes listing-only
+records when full reference details could not be retrieved.
+
+[Download the bibliography CSV](data/resources.csv){download="resources.csv"}
+
+::: {#csv-catalog}
+:::

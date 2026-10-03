@@ -149,12 +149,12 @@ def index_catalog(source: Path, search_path: Path) -> None:
     entries = json.loads(search_path.read_text(encoding="utf-8"))
     entries = [entry for entry in entries if not entry.get("catalog_resource")]
     for row in rows:
-        href = f"resources.html#{row['id']}"
+        href = f"bibliography.html#{row['id']}"
         entries.append(
             {
                 "objectID": href,
                 "href": href,
-                "title": "Resources",
+                "title": "Bibliography",
                 "section": row["title"],
                 "text": " ".join(
                     row[field]
