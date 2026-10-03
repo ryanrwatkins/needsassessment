@@ -99,7 +99,7 @@ def test_search_index_is_complete_and_idempotent(source: Path, tmp_path: Path) -
     entries = json.loads(search.read_text())
     assert len(entries) == 2
     assert entries[0]["text"] == "Home"
-    assert entries[1]["href"] == "resources.html#one"
+    assert entries[1]["href"] == "bibliography.html#one"
     assert "Two lines" in entries[1]["text"]
 
 

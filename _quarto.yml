@@ -22,6 +22,8 @@ website:
         text: "Foundations"
       - href: resources.qmd
         text: "Resources"
+      - href: bibliography.qmd
+        text: "Bibliography"
       - href: guide.qmd
         text: "Guide"
       - href: faq.qmd

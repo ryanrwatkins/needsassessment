@@ -1,23 +1,10 @@
 ---
 title: "Resources"
 toc: true
-filters:
-  - scripts/catalog.lua
-format:
-  html:
-    css: assets/catalog.css
-    include-after-body:
-      text: '<script src="assets/catalog.js"></script>'
 ---
 
-Browse the recovered bibliography by topic, author, resource type, or year. Years are the original bibliographic **publication years**, not archive capture dates. The catalog includes listing-only records when full reference details could not be retrieved.
-
-[Download the bibliography CSV](data/resources.csv){download="resources.csv"}
-
-<span id="section-search-books-articles-chapters"></span><span id="section-books"></span><span id="section-articles"></span>
-
-::: {#csv-catalog}
-:::
+Explore free courses, websites, and practical materials for assessing needs. For
+searchable reference records, visit the [Bibliography](bibliography.qmd).
 
 ## E-learnings {#section-e-learnings}
 
